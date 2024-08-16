@@ -4,5 +4,10 @@ site_author: Ashkin Y C Li
 site_description: >-
   Ashkin's Notes
 
+repo_name: 
+
 theme:
   name: material
+
+nav:
+  - Bookmarks: index.md
