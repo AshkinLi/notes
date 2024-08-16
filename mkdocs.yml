@@ -1,0 +1,8 @@
+site_name: Ashkin's Notes
+site_url: https://github.com/AshkinLi/notes
+site_author: Ashkin Y C Li
+site_description: >-
+  Ashkin's Notes
+
+theme:
+  name: material
