@@ -1,1 +1,0 @@
-# ashkinli.github.io
