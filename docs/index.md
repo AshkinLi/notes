@@ -46,5 +46,28 @@
 	- <img src="https://gouhuo.qq.com/favicon.ico" height="12" width="12"> [篝火营地](https://gouhuo.qq.com){ target="_blank" }
 	- <img src="https://pic.iyingdi.com/yingdi_pc/logo.png" height="12" width="12"> [旅法师营地](https://iyingdi.com){ target="_blank" }
 	- <img src="https://www.gamersky.com/favicon.ico" height="12" width="12"> [游民星空](https://gamersky.com){ target="_blank" }
-	- <img src="https://static.indienova.com/assets/favicon/favicon-32x32.png" height="12" width="12"> [独立精神 | indienova 独立游戏](https://indienova.com/){ target="_blank" }
+	- <img src="./assets/favicon/indienova.png" height="12" width="12"> [独立精神 | indienova 独立游戏](https://indienova.com/){ target="_blank" }
 	- <img src="https://cowlevel.net/favicon.ico" height="12" width="12"> [奶牛关](https://cowlevel.net/){ target="_blank" }
+
+??? note "资源"
+
+	- <img src="https://mxwljsq.top/favicon.ico" height="12" width="12"> [猫熊](https://mxwljsq.top){ target="_blank" }
+	- <img src="https://zh.singlelogin.re/favicon-32x32.svg" height="12" width="12"> [Z-Library](https://zh.singlelogin.re/){ target="_blank" }
+	- <img src="./assets/favicon/2cycd.ico" height="12" width="12"> [二次元虫洞](http://www.2cycd.com){ target="_blank" }
+	- <img src="./assets/favicon/appinn.jpg" height="12" width="12"> [小众软件](https://appinn.com){ target="_blank" }
+	- <img src="./assets/favicon/ahhhhfs.webp" height="12" width="12"> [A姐分享](https://www.ahhhhfs.com){ target="_blank" }
+	- <img src="https://www.oldmantvg.net/favicon.ico" height="12" width="12"> [老男人游戏网](https://www.oldmantvg.net){ target="_blank" }
+	- <img src="https://dos.zczc.cz/favicon.svg" height="12" width="12"> [在线 DOS 游戏](https://dos.zczc.cz/){ target="_blank" }
+
+??? note "搜索"
+
+	- <img src="https://www.telsearch.me/logo.png" height="12" width="12"> [Telegram 搜索](https://www.telsearch.me){ target="_blank" }
+	- <img src="https://www.pansearch.me/favicon.png" height="12" width="12"> [Pan 搜索](https://www.pansearch.me){ target="_blank" }
+
+??? note "英文"
+
+	- <img src="https://news.ycombinator.com/favicon.ico" height="12" width="12"> [Hacker News](https://news.ycombinator.com){ target="_blank" }
+	- <img src="https://10to5mac.com/wp-content/uploads/sites/6/2019/10/cropped-cropped-mac1-1.png" height="12" width="12"> [9to5Mac](https://9to5mac.com){ target="_blank" }
+	- <img src="https://10to5google.com/wp-content/uploads/sites/4/2017/03/favicon-bg-none-face-white.png" height="12" width="12"> [9to5Google](https://9to5google.com){ target="_blank" }
+	- <img src="https://web.telegram.org/a/favicon.svg" height="12" width="12"> [Telegram](https://web.telegram.org/){ target="_blank" }
+	- <img src="https://ltn.hitomi.la/favicon-192x192.png" height="12" width="12"> [Hitomi](https://hitomi.la/){ target="_blank" }
