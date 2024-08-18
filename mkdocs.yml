@@ -102,3 +102,8 @@ nav:
   - Bookmarks: index.md
   - Blogs:
     - blog/index.md
+  - TODO: 
+    - 动画（Anime）: todo/anime.md
+    - 漫画（Comics）: todo/comics.md
+    - 游戏（Games）: todo/games.md
+    - 书籍（Books）: todo/books.md
