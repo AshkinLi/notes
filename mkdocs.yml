@@ -52,7 +52,8 @@ plugins:
       enable_creation_date: true
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - tags
+  - tags:
+      tags_file: tags.md
 
 # Additional configuration
 extra:
@@ -90,6 +91,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.smartsymbols
+  - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -99,7 +101,9 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Bookmarks: index.md
+  - Bookmarks: 
+    - index.md
+    - tags.md
   - Blogs:
     - blog/index.md
   - Games:
