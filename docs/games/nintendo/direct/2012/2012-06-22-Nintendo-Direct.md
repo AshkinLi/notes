@@ -1,8 +1,3 @@
----
-tags:
-  - Nintendo Direct
----
-
 ## 2012-06-22-Nintendo-Direct
 Nintendo Direct 2012.6.22 プレゼンテーション映像
 -------------------------------------

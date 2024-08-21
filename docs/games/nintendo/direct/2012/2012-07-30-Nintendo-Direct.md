@@ -1,8 +1,3 @@
----
-tags:
-  - Nintendo Direct
----
-
 ## 2012-07-30-Nintendo-Direct
 ドラゴンクエストX Direct 2012.7.30
 --------------------------

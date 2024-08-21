@@ -1,8 +1,3 @@
----
-tags:
-  - Nintendo Direct
----
-
 ## Nintendo Direct 2011.10.21 プレゼンテーション映像
 
 1.  马力欧卡丁车 7

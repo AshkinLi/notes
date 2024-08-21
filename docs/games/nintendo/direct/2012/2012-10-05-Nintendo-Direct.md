@@ -1,8 +1,3 @@
----
-tags:
-  - Nintendo Direct
----
-
 ## 2012-10-05-Nintendo-Direct
 とびだせ どうぶつの森 Direct 2012.10.5
 ----------------------------

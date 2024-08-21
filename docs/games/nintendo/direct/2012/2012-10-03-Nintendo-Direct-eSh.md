@@ -1,8 +1,3 @@
----
-tags:
-  - Nintendo Direct
----
-
 ## 2012-10-03-Nintendo-Direct-eShop
 ちょっと Nintendo Direct ニンテンドーeショップ 2012.10.3
 ------------------------------------------

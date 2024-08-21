@@ -1,8 +1,3 @@
----
-tags:
-  - Nintendo Direct
----
-
 ## 2012-12-06-Nintendo-Direct
 Nintendo 生 Direct 2012.12.6
 ---------------------------

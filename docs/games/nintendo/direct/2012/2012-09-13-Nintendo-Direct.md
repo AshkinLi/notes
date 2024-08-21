@@ -1,8 +1,3 @@
----
-tags:
-  - Nintendo Direct
----
-
 ## 2012-09-13-Nintendo-Direct
 Nintendo Direct Wii U Preview プレゼンテーション映像
 -----------------------------------------
