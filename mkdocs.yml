@@ -71,7 +71,7 @@ extra:
     new: Recently added
     deprecated: Deprecated
 
-  generator: false
+  # generator: false
 
 # Extensions
 markdown_extensions:
