@@ -25,7 +25,6 @@ theme:
     - header.autohide
     - navigation.footer
     - navigation.indexes
-    - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.preview
     - navigation.sections
@@ -72,7 +71,7 @@ extra:
     new: Recently added
     deprecated: Deprecated
 
-  # nerator: false
+  nerator: false
 
 # Extensions
 markdown_extensions:
