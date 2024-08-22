@@ -1,5 +1,5 @@
-# Tags
-
-Following is a list of relevant tags:
+---
+title: 标签列表
+---
 
 <!-- material/tags -->

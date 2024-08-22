@@ -1,8 +1,7 @@
 ---
 tags:
   - 直面会
-  - "Nintendo Direct"
-  - Direct
+  - 列表
 ---
 
 ## 2024
@@ -588,75 +587,5 @@ tags:
 
 ## 2011
 
-<details>
-	<summary><b>Nintendo Direct - (2011-12-27)</b></summary>
-	<p>2011 年 12 月 27 日，任天堂召开第二次直播会，介绍任天堂平台 2012 年 3 月前发售游戏的最新消息。</p>
-	<dl>
-		<dt>日版标题</dt>
-		<dd>Nintendo Direct 2011.12.27 プレゼンテーション映像</dd>
-		<dt>时间</dt>
-		<dd>2011 年 12 月 27 日 东京时间 12 点</dd>
-		<dt>播放地区</dt>
-		<dd>日本</dd>
-		<dt>主持人</dt>
-		<dd>岩田聪</dd>
-		<dt>其他人员</dt>
-		<dd>
-			<ol>
-				<li>坂本贺勇</li>
-				<li>内田明理</li>
-				<li>伊藤博之</li>
-				<li>辻本良三</li>
-				<li>井上聪</li>
-			</ol>
-		</dd>
-		<dt>主要内容</dt>
-		<dd>
-			<ol>
-				<li>马力欧与索尼克在伦敦奥运会</li>
-				<li>新光神话 帕露蒂娜之镜</li>
-				<li>生化危机 启示录</li>
-				<li>新爱相随</li>
-				<li>真三国无双 VS</li>
-				<li>火焰纹章 觉醒</li>
-			</ol>
-		</dd>
-		<dt>备注</dt>
-		<dd>日版直播会结束后，有岩田聪体验新爱相随、初音未来与明日之星 未来计划介绍视频、怪物猎人 3G 座谈会。</dd>
-	</dl>
-</details>
-
-<br />
-
-<details>
-	<summary><b>Nintendo Direct - (2011-10-21)</b></summary>
-	<p>2011 年 10 月 21 日，任天堂召开第一次直播会，由岩田聪社长主持，介绍 2011 年 9 月发布会未公布的 3DS 的最新消息。</p>
-	<dl>
-		<dt>日版标题</dt>
-		<dd>Nintendo Direct 2011.10.21 プレゼンテーション映像</dd>
-		<dt>美版标题</dt>
-		<dd>Nintendo Direct 10.21.2011 - Reggie Fils-Aime Presents Nintendo Updates</dd>
-		<dt>时间</dt>
-		<dd>2011 年 10 月 21 日 东京时间 20 点</dd>
-		<dt>地区</dt>
-		<dd>日本、北美</dd>
-		<dt>主持人</dt>
-		<dd>岩田聪</dd>
-		<dt>其他人员</dt>
-		<dd>绀野秀树</dd>
-		<dt>主要内容</dt>
-		<dd>
-			<ol>
-				<li>3DS 系统更新</li>
-				<li>马力欧卡丁车 7</li>
-				<li>王国之心 3D</li>
-				<li>牧场物语 起源的大地</li>
-				<li>符文工厂 4</li>
-				<li>超级马力欧 3D 乐园</li>
-				<li>怪物猎人 3G</li>
-			</ol>
-		</dd>
-		<dt>备注</dt>
-		<dd>此为任天堂第一次的直播会。日版直播会结束后，有马力欧卡丁车 7、落石 3D 和绘图生活的社长问讯，以及怪物猎人 3G 狩猎入门。日版直播会与美版直播会有较大差异。</dd>
-	</dl>
-</details>
+- [Nintendo Direct 2011.12.27 プレゼンテーション映像](./2011/2011-12-27-Nintendo-Direct.md){ data-preview }
+- [Nintendo Direct 2011.10.21 プレゼンテーション映像](./2011/2011-10-21-Nintendo-Direct.md){ data-preview }
