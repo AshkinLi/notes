@@ -27,6 +27,7 @@ theme:
     - navigation.indexes
     - navigation.instant
     - navigation.instant.prefetch
+    - navigation.instant.preview
     - navigation.sections
     - navigation.tabs
     - navigation.top
@@ -71,7 +72,7 @@ extra:
     new: Recently added
     deprecated: Deprecated
 
-  # generator: false
+  generator: false
 
 # Extensions
 markdown_extensions:

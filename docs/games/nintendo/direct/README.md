@@ -587,5 +587,5 @@ tags:
 
 ## 2011
 
-- [Nintendo Direct 2011.12.27 プレゼンテーション映像](./2011/2011-12-27-Nintendo-Direct.md){ data-preview }
-- [Nintendo Direct 2011.10.21 プレゼンテーション映像](./2011/2011-10-21-Nintendo-Direct.md){ data-preview }
+- [Nintendo Direct 2011.12.27 プレゼンテーション映像](./2011/2011-12-27-Nintendo-Direct.md)
+- [Nintendo Direct 2011.10.21 プレゼンテーション映像](./2011/2011-10-21-Nintendo-Direct.md)
