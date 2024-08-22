@@ -1,4 +1,5 @@
 ---
+title: 宝可梦
 tags:
   - 宝可梦
   - Pokemon

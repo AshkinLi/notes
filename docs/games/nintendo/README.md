@@ -1,4 +1,5 @@
 ---
+title: 任天堂
 tags:
   - 任天堂
   - Nintendo

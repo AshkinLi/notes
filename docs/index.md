@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # Welcome to Ashkin's Notes
 
 ???+ note "常用"

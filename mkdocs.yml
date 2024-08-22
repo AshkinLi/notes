@@ -53,11 +53,17 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - meta
+  - offline
   - optimize
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+      pipeline:
+        - stemmer
+        - stopWordFilter
+        - trimmer
   - tags:
       tags_file: tags.md
+      tags_hierarchy: true
 
 # Additional configuration
 extra:
@@ -108,19 +114,20 @@ markdown_extensions:
   - pymdownx.tilde
 
 # Page tree
-nav:
-  - Bookmarks: 
-    - index.md
-    - tags.md
-  - Blogs:
-    - blog/index.md
-  - Games:
-    - 任天堂（任天堂，Nintendo）:
-      - 任天堂: games/nintendo/index.md
-      - 任天堂直面会（Nintendo Direct）: games/nintendo/nintendo-direct.md
-      - 宝可梦（ポケモン，Pokemon）: games/nintendo/pokemon.md
-  - TODO: 
-    - 动画（Anime）: todo/anime.md
-    - 漫画（Comics）: todo/comics.md
-    - 游戏（Games）: todo/games.md
-    - 书籍（Books）: todo/books.md
+# nav:
+#   - Bookmarks: 
+#     - index.md
+#     - tags.md
+#   - Blogs:
+#     - blog/index.md
+#   - Games:
+#     - 任天堂（任天堂，Nintendo）:
+#       - 任天堂: games/nintendo/index.md
+#       - 任天堂直面会（Nintendo Direct）: 
+#         - games/nintendo/direct/index.md
+#       - 宝可梦（ポケモン，Pokemon）: games/nintendo/pokemon.md
+#   - TODO: 
+#     - 动画（Anime）: todo/anime.md
+#     - 漫画（Comics）: todo/comics.md
+#     - 游戏（Games）: todo/games.md
+#     - 书籍（Books）: todo/books.md
