@@ -53,6 +53,7 @@ plugins:
       branch: source
   - git-revision-date-localized:
       enable_creation_date: true
+      timezone: Asia/Shanghai
   - meta
   - offline
   - optimize
@@ -76,11 +77,6 @@ extra:
 
 # Extensions
 markdown_extensions:
-  - material.extensions.preview:
-      targets:
-        include:
-          - games/nintendo/direct/*
-
   # Python Markdown
   - abbr
   - admonition

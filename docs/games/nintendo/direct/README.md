@@ -1,6 +1,7 @@
 ---
-title: Nintendo Direct
+title: 任天堂直面会
 tags:
+  - 任天堂
   - 直面会
   - 列表
 ---
@@ -511,80 +512,10 @@ tags:
 
 <br />
 
-<details>
-	<summary><b>Nintendo Direct - (2012-04-21)</b></summary>
-	<p>2012 年 4 月 21 日，任天堂召开直播会，介绍任天堂平台将发售游戏的最新消息。</p>
-	<dl>
-		<dt>日版标题</dt>
-		<dd>Nintendo Direct 2012.4.21 プレゼンテーション映像</dd>
-		<dt>时间</dt>
-		<dd>2012 年 4 月 21 日 东京时间 12 点</dd>
-		<dt>播放地区</dt>
-		<dd>
-			<ul>
-				<li>日本</li>
-				<li>欧洲</li>
-			</ul>
-		</dd>
-		<dt>主持人</dt>
-		<dd>岩田聪</dd>
-		<dt>主要内容</dt>
-		<dd>
-			<ol>
-				<li>宝可梦 黑 2/白 2</li>
-				<li>世界树迷宫 4 传承的巨神</li>
-				<li>交叉领域计划</li>
-				<li>马力欧网球 OPEN</li>
-				<li>新光神话 帕露蒂娜之镜</li>
-				<li>火焰纹章 觉醒</li>
-			</ol>
-		</dd>
-		<dt>备注</dt>
-		<dd>日版直播会结束后，有世界树迷宫 4 传承的巨神、卡片召唤师和新光神话 帕露蒂娜之镜的介绍视频。</dd>
-	</dl>
-</details>
+## 2012
 
-<br />
-
-<details>
-	<summary><b>Nintendo Direct - (2012-02-22)</b></summary>
-	<p>2012 年 2 月 22 日，任天堂召开直播会，介绍任天堂平台将发售游戏的最新消息。</p>
-	<dl>
-		<dt>日版标题</dt>
-		<dd>Nintendo Direct 2012.2.22 プレゼンテーション映像</dd>
-		<dt>美版标题</dt>
-		<dd>Nintendo Direct 2.22.2012 - Reggie Fils-Aime Presents Nintendo Updates</dd>
-	 	<dt>时间</dt>
-		<dd>2012 年 2 月 22 日 东京时间 20 点</dd>
-		<dt>播放地区</dt>
-		<dd>
-			<ul>
-				<li>日本</li>
-				<li>北美</li>
-				<li>欧洲</li>
-			</ul>
-		</dd>
-		<dt>主持人</dt>
-		<dd>岩田聪</dd>
-		<dt>其他人员</dt>
-		<dd>有野晋哉</dd>
-		<dt>主要内容</dt>
-		<dd>
-			<ol>
-				<li>新光神话 帕露蒂娜之镜</li>
-				<li>火焰纹章 觉醒</li>
-				<li>宝可梦＋信长的野望</li>
-				<li>马力欧网球 OPEN</li>
-				<li>零 真红之蝶</li>
-				<li>世界树迷宫 4 传承的巨神</li>
-			</ol>
-		</dd>
-		<dt>备注</dt>
-		<dd>日版直播会结束后，有王国之心 3D 介绍视频、游戏中心 CX 有野的挑战 3DSVC 篇。日版直播会与美版直播会有较大差异。</dd>
-	</dl>
-</details>
-
-
+- [Nintendo Direct 2012.4.21 プレゼンテーション映像](./2012/2012-04-21-Nintendo-Direct.md)
+- [Nintendo Direct 2012.2.22 プレゼンテーション映像](./2012/2012-02-22-Nintendo-Direct.md)
 
 ## 2011
 
