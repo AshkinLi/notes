@@ -54,8 +54,8 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - meta
-  # - offline
-  # - optimize
+  - offline
+  - optimize
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
       pipeline:

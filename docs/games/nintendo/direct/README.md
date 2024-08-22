@@ -1,4 +1,5 @@
 ---
+title: Nintendo Direct
 tags:
   - 直面会
   - 列表
