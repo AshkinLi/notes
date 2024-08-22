@@ -1,6 +1,6 @@
 # Project information
 site_name: Ashkin's Notes
-site_url: https://github.com/AshkinLi/notes
+site_url: https://ashkinli.github.io/notes
 site_author: Ashkin Y C Li
 site_description: >-
   Ashkin's Notes
@@ -25,6 +25,7 @@ theme:
     - header.autohide
     - navigation.footer
     - navigation.indexes
+    - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.preview
     - navigation.sections
@@ -71,7 +72,7 @@ extra:
     new: Recently added
     deprecated: Deprecated
 
-  nerator: false
+  generator: false
 
 # Extensions
 markdown_extensions:
