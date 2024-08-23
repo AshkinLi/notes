@@ -1,7 +1,7 @@
 ---
 title: ザ・スーパーマリオブラザーズ・ムービー Direct 2023.3.10 (最終トレーラー)
 tags:
-  - The Super Mario Bros. Movie
+  - 超级马力欧兄弟大电影
 ---
 
 > 2023年3月10日，任天堂召开超级马力欧兄弟大电影直播会，介绍电影《超级马力欧兄弟大电影》的消息。
@@ -36,4 +36,5 @@ tags:
 
 ## 外部链接
 
-- [2023年3月10日超级马力欧兄弟大电影直播会](https://www.bilibili.com/video/BV1jM411x7Rt/){ target="_blank" }
+- [2023 年 3 月 10 日超级马力欧兄弟大电影直播会](https://www.bilibili.com/video/BV1jM411x7Rt/){ target="_blank" }
+- [制片商官网](https://www.illuminationstudiosparis.com/portfolio/mario/){ target="_blank" } (英文)

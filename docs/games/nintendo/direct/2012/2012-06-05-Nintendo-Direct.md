@@ -60,4 +60,4 @@ tags:
 
 ## 外部链接
 
-- [2012年6月5日任天堂E3发布会](https://www.bilibili.com/video/BV1SJ411d7h8/){ target="_blank" }
+- [2012 年 6 月 5 日任天堂 E3 发布会](https://www.bilibili.com/video/BV1SJ411d7h8/){ target="_blank" }

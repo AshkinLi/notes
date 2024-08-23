@@ -53,4 +53,4 @@ tags:
 
 ## 外部链接
 
-- [2011年10月21日任天堂直播会](https://www.bilibili.com/video/BV1oE41167KD/){ target="_blank" }
+- [2011 年 10 月 21 日任天堂直播会](https://www.bilibili.com/video/BV1oE41167KD/){ target="_blank" }

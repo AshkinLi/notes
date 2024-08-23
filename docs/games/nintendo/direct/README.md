@@ -28,7 +28,12 @@ tags:
 
 ## 2022
 
-
+- [ザ・スーパーマリオブラザーズ・ムービー Direct 2022.11.30 (第2弾トレーラー)](./2022/2022-11-30-The-Super-Mario-Bros-Movie-Direct.md)
+- [Indie World 2022.11.10](./2022/2022-11-10-Indie-World.md)
+- [ザ・スーパーマリオブラザーズ・ムービー Direct 2022.10.07 (第1弾トレーラー)](./2022/2022-10-07-The-Super-Mario-Bros-Movie-Direct.md)
+- [Nintendo Direct 2022.9.13](./2022/2022-09-13-Nintendo-Direct.md)
+- [斯普拉遁 3 Direct 2022.8.10](./2022/2022-08-10-Nintendo-Direct.md)
+- [【官方】Pokémon Presents 2022.8.3](./2022/2022-08-03-Pokémon-Presents.md)
 
 ## 2021
 

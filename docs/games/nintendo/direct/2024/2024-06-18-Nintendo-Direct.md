@@ -85,4 +85,4 @@ tags:
 
 ## 外部链接
 
-- [2024年6月18日任天堂直播会](https://www.bilibili.com/video/BV1Ws421T7VF/){ target="_blank" }
+- [2024 年 6 月 18 日任天堂直播会](https://www.bilibili.com/video/BV1Ws421T7VF/){ target="_blank" }

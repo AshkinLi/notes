@@ -15,7 +15,7 @@ tags:
   - 宝可梦竞技场 金银
   - 宝可梦 Sleep
   - 帕底亚的课后时光
-  - 宝可梦 朱/紫 零之秘宝
+  - 宝可梦 朱 / 紫 零之秘宝
 ---
 
 > 2023年8月8日，宝可梦公司召开宝可梦新作发表会，介绍《宝可梦 朱/紫》等作品的最新消息。
@@ -71,4 +71,4 @@ tags:
 
 ## 外部链接
 
-- [2023年8月8日宝可梦新作发表会](https://www.bilibili.com/video/BV1Nj41167nz/){ target="_blank" }
+- [2023 年 8 月 8 日宝可梦新作发表会](https://www.bilibili.com/video/BV1Nj41167nz/){ target="_blank" }

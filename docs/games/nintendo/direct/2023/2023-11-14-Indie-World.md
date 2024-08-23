@@ -22,7 +22,7 @@ tags:
   - 月光石岛
 ---
 
-> 2023年11月15日，任天堂召开独立游戏直播会，介绍Switch平台独立游戏的消息。
+> 2023 年 11 月 15 日，任天堂召开独立游戏直播会，介绍 Switch 平台独立游戏的消息。
 
 **日版标题**
 
@@ -68,4 +68,4 @@ tags:
 
 ## 外部链接
 
-- [2023年11月15日独立游戏直播会](https://www.bilibili.com/video/BV1nb4y1g7Rj/){ target="_blank" }
+- [2023 年 11 月 15 日独立游戏直播会](https://www.bilibili.com/video/BV1nb4y1g7Rj/){ target="_blank" }

@@ -79,4 +79,4 @@ tags:
 
 ## 外部链接
 
-- [2023年2月9日任天堂直播会](https://www.bilibili.com/video/BV1C54y1N7nY/){ target="_blank" }
+- [2023 年 2 月 9 日任天堂直播会](https://www.bilibili.com/video/BV1C54y1N7nY/){ target="_blank" }

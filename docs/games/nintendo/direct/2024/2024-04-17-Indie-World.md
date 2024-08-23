@@ -75,4 +75,4 @@ tags:
 
 ## 外部链接
 
-- [2024年4月17日独立游戏直播会](https://www.bilibili.com/video/BV1xt421P73h/){ target="_blank" }
+- [2024 年 4 月 17 日独立游戏直播会](https://www.bilibili.com/video/BV1xt421P73h/){ target="_blank" }

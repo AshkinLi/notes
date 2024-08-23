@@ -2,6 +2,7 @@
 title: 【官方】Pokémon Presents 2023.2.27
 tags:
   - Switch
+  - 宝可梦
   - 宝可梦卡牌
   - 宝可梦 礼宾部
   - 宝可梦大集结
@@ -58,4 +59,4 @@ tags:
 
 ## 外部链接
 
-- [2023年2月27日宝可梦新作发表会](https://www.bilibili.com/video/BV1cT411v7Ft/){ target="_blank" }
+- [2023 年 2 月 27 日宝可梦新作发表会](https://www.bilibili.com/video/BV1cT411v7Ft/){ target="_blank" }

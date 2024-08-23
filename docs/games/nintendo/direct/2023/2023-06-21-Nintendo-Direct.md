@@ -70,4 +70,4 @@ tags:
 
 ## 外部链接
 
-- [2023年6月21日任天堂直播会](https://www.bilibili.com/video/BV13X4y1s7N8/){ target="_blank" }
+- [2023 年 6 月 21 日任天堂直播会](https://www.bilibili.com/video/BV13X4y1s7N8/){ target="_blank" }
