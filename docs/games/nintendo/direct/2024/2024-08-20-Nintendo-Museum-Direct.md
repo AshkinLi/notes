@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2024年8月20日任天堂博物馆直播会](https://www.bilibili.com/video/BV11hWsewE8f/)
+- [2024年8月20日任天堂博物馆直播会](https://www.bilibili.com/video/BV11hWsewE8f/){ target="_blank" }

@@ -16,7 +16,15 @@ tags:
 
 ## 2023
 
-
+- [Indie World 2023.11.15](./2023/2023-11-14-Indie-World.md)
+- [Nintendo Direct 2023.9.14](./2023/2023-09-14-Nintendo-Direct.md)
+- [スーパーマリオブラザーズ ワンダー Direct 2023.8.31](./2023/2023-08-31-Nintendo-Direct.md)
+- [【官方】Pokémon Presents 2023.8.8](./2023/2023-08-08-Pokémon-Presents.md)
+- [Nintendo Direct 2023.6.21](./2023/2023-06-21-Nintendo-Direct.md)
+- [Indie World 2023.4.20](./2023/2023-04-20-Indie-World.md)
+- [ザ・スーパーマリオブラザーズ・ムービー Direct 2023.3.10 (最終トレーラー)](./2023/2023-03-10-The-Super-Mario-Bros-Movie-Direct.md)
+- [【官方】Pokémon Presents 2023.2.27](./2023/2023-02-27-Pokémon-Presents.md)
+- [Nintendo Direct 2023.2.9](./2023/2023-02-08-Nintendo-Direct.md)
 
 ## 2022
 

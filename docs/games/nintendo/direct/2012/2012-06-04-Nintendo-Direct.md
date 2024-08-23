@@ -35,4 +35,4 @@ tags:
 
 ## 外部链接
 
-- [2012年6月4日任天堂直播会](https://www.bilibili.com/video/BV12E411a73P/)
+- [2012年6月4日任天堂直播会](https://www.bilibili.com/video/BV12E411a73P/){ target="_blank" }

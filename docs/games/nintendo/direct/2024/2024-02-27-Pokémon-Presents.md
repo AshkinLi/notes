@@ -58,4 +58,4 @@ tags:
 
 ## 外部链接
 
-- [2024年2月27日宝可梦新作发表会](https://www.bilibili.com/video/BV1jK421b7y4/)
+- [2024年2月27日宝可梦新作发表会](https://www.bilibili.com/video/BV1jK421b7y4/){ target="_blank" }

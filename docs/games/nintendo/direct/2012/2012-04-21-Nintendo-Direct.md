@@ -44,4 +44,4 @@ tags:
 
 ## 外部链接
 
-- [2012年4月21日任天堂直播会](https://www.bilibili.com/video/BV1AE41117XR/)
+- [2012年4月21日任天堂直播会](https://www.bilibili.com/video/BV1AE41117XR/){ target="_blank" }

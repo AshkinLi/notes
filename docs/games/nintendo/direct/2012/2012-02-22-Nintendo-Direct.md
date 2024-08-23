@@ -51,4 +51,4 @@ tags:
 
 ## 外部链接
 
-- [2012年2月22日任天堂直播会](https://www.bilibili.com/video/BV1AE41117XV/)
+- [2012年2月22日任天堂直播会](https://www.bilibili.com/video/BV1AE41117XV/){ target="_blank" }

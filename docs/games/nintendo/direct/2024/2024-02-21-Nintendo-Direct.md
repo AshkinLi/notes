@@ -71,4 +71,4 @@ tags:
 
 ## 外部链接
 
-- [2024年2月21日任天堂直播会：第三方厂商](https://www.bilibili.com/video/BV1vS421N7aH/)
+- [2024年2月21日任天堂直播会：第三方厂商](https://www.bilibili.com/video/BV1vS421N7aH/){ target="_blank" }
