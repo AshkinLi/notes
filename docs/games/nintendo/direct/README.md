@@ -8,7 +8,11 @@ tags:
 
 ## 2024
 
-
+- [ニンテンドーミュージアム Direct](./2024/2024-08-20-Nintendo-Museum-Direct.md)
+- [Nintendo Direct 2024.6.18](./2024/2024-06-18-Nintendo-Direct.md)
+- [Indie World 2024.4.17](./2024/2024-04-17-Indie-World.md)
+- [【官方】Pokémon Presents 2024.2.27](./2024/2024-02-27-Pokémon-Presents.md)
+- [Nintendo Direct ソフトメーカーラインナップ 2024.2.21](./2024/2024-02-21-Nintendo-Direct.md)
 
 ## 2023
 
@@ -389,131 +393,11 @@ tags:
 	</dl>
 </details>
 
-<br />
-
-<details>
-	<summary><b>Nintendo Direct - (2012-06-22)</b></summary>
-	<p>2012 年 6 月 22 日，任天堂召开直播会，介绍 3DS 软件的消息。</p>
-	<dl>
-		<dt>日版标题</dt>
-		<dd>Nintendo Direct 2012.6.22 プレゼンテーション映像</dd>
-		<dt>美版标题</dt>
-		<dd>Nintendo Direct 6.21.2012</dd>
-		<dt>时间</dt>
-		<dd>2012 年 6 月 22 日 东京时间 12 点</dd>
-		<dt>播放地区</dt>
-		<ul>
-			<li>日本</li>
-			<li>北美</li>
-			<li>欧洲</li>
-		</ul>
-		<dt>主持人</dt>
-		<dd>岩田聪</dd>
-		<dt>其他人员</dt>
-		<dd>
-			<ul>
-				<li>有野晋哉</li>
-				<li>对战卡牌子</li>
-			</ul>
-		</dd>
-		<dt>主要内容</dt>
-		<dd>
-			<ol>
-				<li>零 真红之蝶</li>
-				<li>勇者斗恶龙 10</li>
-				<li>宝可梦 黑 2/白 2</li>
-				<li>对战卡牌</li>
-				<li>快乐足球</li>
-				<li>新超级马力欧兄弟 2</li>
-				<li>脑锻炼魔鬼特训</li>
-				<li>3DS LL</li>
-				<li>新绘心教室</li>
-				<li>来吧 动物森友会</li>
-			</ol>
-		</dd>
-		<dt>备注</dt>
-		<dd>日版直播会结束后，有勇者斗恶龙 10 介绍视频、零 真红之蝶体验映像、游戏中心 CX 有野的挑战 星之卡比 20 周年特别收藏版篇、马力欧艺人挑战新超马兄弟 2。日版直播会与美版直播会有较大差异。</dd>
-	</dl>
-</details>
-
-<br />
-
-<details>
-	<summary><b>Nintendo Direct - (2012-06-05)</b></summary>
-	<p>2012 年 6 月 5 日，任天堂召开 E3 发布会，介绍 Wii U 的硬件及面向美国的任天堂与第三方的软件。</p>
-	<dl>
-		<dt>日版标题</dt>
-		<dd>任天堂 E3 2012 プレゼンテーション映像</dd>
-		<dt>美版标题</dt>
-		<dd>Nintendo All-Access Presentation @ E3 2012</dd>
-		<dt>时间地点</dt>
-		<dd>2012 年 6 月 5 日 当地时间 9 点 美国洛杉矶 诺基亚剧院</dd>
-		<dt>主持人</dt>
-		<dd>雷吉</dd>
-		<dt>其他人员</dt>
-		<dd>
-			<ul>
-				<li>宫本茂</li>
-				<li>马丁·特朗布莱</li>
-				<li>科特·莫菲特</li>
-				<li>伊维斯·吉尔莫特</li>
-				<li>江口胜也</li>
-			</ul>
-		</dd>
-		<dt>主要内容</dt>
-		<dd>
-			<ol>
-				<li>皮克敏 3</li>
-				<li>新超级马力欧兄弟 U</li>
-				<li>蝙蝠侠 阿甘之城</li>
-				<li>Wii fit U</li>
-				<li>新超级马力欧兄弟 2</li>
-				<li>纸片马力欧 超级贴纸</li>
-				<li>路易吉洋馆 2</li>
-				<li>乐高都市 卧底风云</li>
-				<li>舞力全开 4</li>
-				<li>任天堂大陆</li>
-			</ol>
-		</dd>
-		<dt>备注</dt>
-		<dd>E3 发布会结束后，日本任天堂又播出了岩田聪介绍 Wii U 游戏的视频。</dd>
-	</dl>
-</details>
-
-<br />
-
-<details>
-	<summary><b>Nintendo Direct - (2012-06-04)</b></summary>
-	<p>2012 年 6 月 4 日，任天堂召开 E3 展前直播会，介绍有关 Wii U 的最新消息。</p>
-	<dl>
-		<dt>日版标题</dt>
-		<dd>Nintendo Direct Pre E3 プレゼンテーション映像</dd>
-		<dt>美版标题</dt>
-		<dd>Nintendo Direct Pre E3 2012</dd>
-		<dt>时间</dt>
-		<dd>2012 年 6 月 4 日 东京时间 7 点</dd>
-		<dt>播放地区</dt>
-		<ul>
-			<li>日本</li>
-			<li>北美</li>
-			<li>欧洲</li>
-		</ul>
-		<dt>主持人</dt>
-		<dd>岩田聪</dd>
-		<dt>主要内容</dt>
-		<dd>
-			<ul>
-				<li>Wii U GamePad</li>
-				<li>Miiverse</li>
-			</ul>
-		</dd>
-	</dl>
-</details>
-
-<br />
-
 ## 2012
 
+- [Nintendo Direct 2012.6.22 プレゼンテーション映像](./2012/2012-06-22-Nintendo-Direct.md)
+- [任天堂 E3 2012 プレゼンテーション映像](./2012/2012-06-05-Nintendo-Direct.md)
+- [Nintendo Direct Pre E3 プレゼンテーション映像](./2012/2012-06-04-Nintendo-Direct.md)
 - [Nintendo Direct 2012.4.21 プレゼンテーション映像](./2012/2012-04-21-Nintendo-Direct.md)
 - [Nintendo Direct 2012.2.22 プレゼンテーション映像](./2012/2012-02-22-Nintendo-Direct.md)
 
