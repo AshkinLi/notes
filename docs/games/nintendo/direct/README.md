@@ -8,6 +8,7 @@ tags:
 
 ## 2024
 
+- [Nintendo Direct ソフトメーカーラインナップ 2024.8.27](./2024/2024-08-27-Nintendo-Direct.md)
 - [ニンテンドーミュージアム Direct](./2024/2024-08-20-Nintendo-Museum-Direct.md)
 - [Nintendo Direct 2024.6.18](./2024/2024-06-18-Nintendo-Direct.md)
 - [Indie World 2024.4.17](./2024/2024-04-17-Indie-World.md)

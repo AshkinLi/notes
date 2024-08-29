@@ -2,6 +2,7 @@
 title: 【官方】Pokémon Presents 2022.8.3
 tags:
   - Switch
+  - Pokémon Presents
   - 宝可梦 GO
   - 宝可梦大集结
   - 宝可梦咖啡店

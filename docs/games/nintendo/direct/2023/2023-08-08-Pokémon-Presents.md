@@ -2,6 +2,7 @@
 title: 【官方】Pokémon Presents 2023.8.8
 tags:
   - Switch
+  - Pokémon Presents
   - 宝可梦
   - 宝可梦世锦赛
   - 宝可梦 巅峰之路

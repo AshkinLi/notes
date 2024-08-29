@@ -2,6 +2,7 @@
 title: 【官方】Pokémon Presents 2023.2.27
 tags:
   - Switch
+  - Pokémon Presents
   - 宝可梦
   - 宝可梦卡牌
   - 宝可梦 礼宾部

@@ -2,30 +2,10 @@
 title: Nintendo Direct ソフトメーカーラインナップ 2024.2.21
 tags:
   - Switch
-  - 新电波人 RPG FREE！
-  - 高达创坏者 4
-  - 超级猴子球 香蕉大乱斗
-  - 史力奇
-  - 怪物猎人物语
-  - 圣兽之王
-  - 纸牌马 Ride On！
-  - 迪士尼传奇米奇 Rebrushed
-  - 真女神转生 V Vengeance
-  - Guitar Life
-  - 雷纳提斯
-  - 幻想生活 i 转圈圈的龙和偷取时间的少女
-  - 黏黏世界 2
-  - 刀剑神域 碎梦边境
-  - 北海道连续杀人事件
-  - 西瓜游戏
-  - 终焉之玛格诺利亚
-  - eBASEBALL 实况棒球 2024 - 2025
-  - 魂斗罗 加卢加行动
-  - MOTHER 3
-  - 永恒蔚蓝 流光
+  - Partner Showcase
 ---
 
-> 2024 年 2 月 21 日，任天堂召开直播会，介绍第三方厂商Switch游戏的消息。
+> 2024 年 2 月 21 日，任天堂召开直播会，介绍第三方厂商 Switch 游戏的消息。
 
 **日版标题**
 
@@ -33,7 +13,7 @@ tags:
 
 **美版标题**
 
-:Nintendo Direct: Partner Showcase 2.21.2024
+:	Nintendo Direct: Partner Showcase 2.21.2024
 
 **时间**
 

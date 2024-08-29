@@ -2,6 +2,7 @@
 title: 【官方】Pokémon Presents 2024.2.27
 tags:
   - Switch
+  - Porkemon Presents
   - 宝可梦
   - 宝可梦 GO
   - 宝可梦 Sleep
