@@ -35,6 +35,11 @@ tags:
 - [Nintendo Direct 2022.9.13](./2022/2022-09-13-Nintendo-Direct.md)
 - [斯普拉遁 3 Direct 2022.8.10](./2022/2022-08-10-Nintendo-Direct.md)
 - [【官方】Pokémon Presents 2022.8.3](./2022/2022-08-03-Pokémon-Presents.md)
+- [Nintendo Direct mini ソフトメーカーラインナップ 2022.6.28](./2022/2022-06-28-Nintendo-Direct-Mini.md)
+- [ゼノブレイド3 Direct 2022.6.22](./2022/2022-06-22-Nintendo-Direct.md)
+- [Indie World 2022.5.11](./2022/2022-05-11-Indie-World.md)
+- [【官方】Pokémon Presents 2022.2.27](./2022/2022-02-27-Pokémon-Presents.md)
+- [Nintendo Direct 2022.2.10](./2022/2022-02-10-Nintendo-Direct.md)
 
 ## 2021
 
