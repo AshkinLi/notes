@@ -3,6 +3,7 @@ title: Nintendo Direct ソフトメーカーラインナップ 2024.8.27
 tags:
   - Switch
   - Indie World
+  - Third-party
   - Partner Showcase
 ---
 

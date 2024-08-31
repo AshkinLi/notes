@@ -3,6 +3,7 @@ title: Nintendo Direct ソフトメーカーラインナップ 2024.2.21
 tags:
   - Switch
   - Partner Showcase
+  - Third-party
 ---
 
 > 2024 年 2 月 21 日，任天堂召开直播会，介绍第三方厂商 Switch 游戏的消息。

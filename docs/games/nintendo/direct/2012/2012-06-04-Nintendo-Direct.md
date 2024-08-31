@@ -2,6 +2,7 @@
 title: Nintendo Direct Pre E3 プレゼンテーション映像
 tags:
   - Wii U
+  - E3
 ---
 
 > 2012 年 6 月 4 日，任天堂召开 E3 展前直播会，介绍有关 Wii U 的最新消息。

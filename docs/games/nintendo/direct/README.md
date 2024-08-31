@@ -13,7 +13,7 @@ tags:
 - [Nintendo Direct 2024.6.18](./2024/2024-06-18-Nintendo-Direct.md)
 - [Indie World 2024.4.17](./2024/2024-04-17-Indie-World.md)
 - [【官方】Pokémon Presents 2024.2.27](./2024/2024-02-27-Pokémon-Presents.md)
-- [Nintendo Direct ソフトメーカーラインナップ 2024.2.21](./2024/2024-02-21-Nintendo-Direct.md)
+- [Nintendo Direct ソフトメーカーラインナップ 2024.2.21](./2024/2024-02-21-Partner-Showcase.md)
 
 ## 2023
 
@@ -59,12 +59,19 @@ tags:
 
 ## 2013
 
+- [ニンテンドー3DSガイド ルーヴル美術館 Direct 2013.11.27](./2013/2013-11-27-Nintendo-Direct.md)
+- [Nintendo 3DS Direct 2013.2.21](./2013/2013-02-21-3DS-Direct.md)
+- [Nintendo 3DS Direct Luigi special 2013.2.14](./2013/2013-02-14-3DS-Direct.md)
+- [とびだせ どうぶつの森 Direct 2013.2.1](./2013/2013-02-01-Nintendo-Direct.md)
+- [Wii U Direct Nintendo Games 2013.1.23 プレゼンテーション映像](./2013/2013-01-23-Wii-U-Direct.md)
+- [Pokémon Direct 2013.1.8](./2013/2013-01-08-Pokémon-Direct.md)
+
 ## 2012
 
 - [ちょっと Nintendo Direct ドラゴンクエストX 2012.12.19](./2012/2012-12-19-Nintendo-Direct.md)
 - [Nintendo 生 Direct 2012.12.6](./2012/2012-12-06-Nintendo-Direct.md)
 - [Nintendo Direct 2012.12.5 プレゼンテーション映像](./2012/2012-12-05-Nintendo-Direct.md)
-- [ニンテンドー3DSガイド ルーヴル美術館 Direct 2013.11.27](./2012/2012-11-27-Nintendo-Direct.md)
+- [ちょっと Nintendo Direct New スーパーマリオブラザーズ 2 2012.11.27](./2012/2012-11-27-Nintendo-Direct.md)
 - [Wii U本体機能 ちょっと補足 Direct 2012.11.14](./2012/2012-11-14-Nintendo-Direct.md)
 - [Wii U本体機能 Direct 2012.11.7 プレゼンテーション映像](./2012/2012-11-07-Nintendo-Direct.md)
 - [Nintendo Direct 2012.10.25 プレゼンテーション映像](./2012/2012-10-25-Nintendo-Direct.md)

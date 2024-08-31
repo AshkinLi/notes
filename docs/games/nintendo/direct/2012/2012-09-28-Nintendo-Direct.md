@@ -2,6 +2,7 @@
 title: ちょっと Nintendo Direct New スーパーマリオブラザーズ 2 2012.9.28
 tags:
   - 3DS
+  - Single Game Direct
   - 新超级马力欧兄弟 2
 ---
 

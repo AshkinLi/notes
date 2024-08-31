@@ -2,6 +2,7 @@
 title: とびだせ どうぶつの森 Direct 2012.10.5
 tags:
   - 3DS
+  - Single Game Direct
   - 来吧 动物森友会
 ---
 

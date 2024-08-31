@@ -3,6 +3,8 @@ title: Nintendo Direct mini ソフトメーカーラインナップ 2022.6.28
 tags:
   - Switch
   - Partner Showcase
+  - Nintendo Direct Mini
+  - Third-party
 ---
 
 > 2022 年 6 月 28 日，任天堂召开迷你直播会，介绍第三方厂商 Switch 游戏的消息。

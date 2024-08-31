@@ -2,6 +2,7 @@
 title: ドラゴンクエストX Direct 2012.7.30
 tags:
   - Wii
+  - Single Game Direct
 ---
 
 > 2012 年 7 月 30 日，任天堂召开勇者斗恶龙 10 直播会，介绍 Wii 游戏《勇者斗恶龙 10》的消息。
