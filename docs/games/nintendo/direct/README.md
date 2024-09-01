@@ -60,6 +60,10 @@ tags:
 ## 2013
 
 - [ニンテンドー3DSガイド ルーヴル美術館 Direct 2013.11.27](./2013/2013-11-27-Nintendo-Direct.md)
+- [Nintendo Direct Mini 7.18.13](./2013/2013-07-18-Nintendo-Direct-Mini.md)
+- [ちょっと Nintendo Direct Wii U / ニンテンドー3DS ダウンロードソフト 2013.7.3](./2013/2013-07-03-Nintendo-Direct-Mini.md)
+- [ピクミン3 Direct 2013.6.26](./2013/2013-06-26-Nintendo-Direct.md)
+- [Nintendo Direct @E3 2013 プレゼンテーション映像](./2013/2013-06-11-Nintendo-Direct-E3.md)
 - [MH4 & GYAKUTEN5 Direct 2013.5.31](./2013/2013-05-31-Nintendo-Direct.md)
 - [Nintendo Direct 2013.5.17 プレゼンテーション映像](./2013/2013-05-17-Nintendo-Direct.md)
 - [Nintendo Direct Luigi special 2 2013.4.17 プレゼンテーション映像](./2013/2013-04-17-Nintendo-Direct.md)
