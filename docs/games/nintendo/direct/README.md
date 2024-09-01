@@ -60,6 +60,8 @@ tags:
 ## 2013
 
 - [ニンテンドー3DSガイド ルーヴル美術館 Direct 2013.11.27](./2013/2013-11-27-Nintendo-Direct.md)
+- [MH4 & GYAKUTEN5 Direct 2013.5.31](./2013/2013-05-31-Nintendo-Direct.md)
+- [Nintendo Direct 2013.5.17 プレゼンテーション映像](./2013/2013-05-17-Nintendo-Direct.md)
 - [Nintendo Direct Luigi special 2 2013.4.17 プレゼンテーション映像](./2013/2013-04-17-Nintendo-Direct.md)
 - [トモダチコレクション 新生活 Direct 2013.4.3](./2013/2013-04-03-Nintendo-Direct.md)
 - [ちょっと Nintendo Direct ニンテンドー3DSダウンロードソフト 2013.4.1](./2013/2013-04-01-Nintendo-Direct-Mini.md)
