@@ -59,7 +59,17 @@ tags:
 
 ## 2013
 
+- [Nintendo Direct 2013.12.18 プレゼンテーション映像](./2013/2013-12-18-Nintendo-Direct.md)
 - [ニンテンドー3DSガイド ルーヴル美術館 Direct 2013.11.27](./2013/2013-11-27-Nintendo-Direct.md)
+- [ちょっとNintendo Direct Wii U/ニンテンドー3DS ダウンロードソフト 2013.11.14](./2013/2013-11-14-Nintendo-Direct-Mini.md)
+- [ちょっと Nintendo Direct 大合奏！バンドブラザーズＰ 2013.10.29](./2013/2013-10-29-Nintendo-Direct.md)
+- [Nintendo Direct 2013.10.1 プレゼンテーション映像](./2013/2013-10-01-Nintendo-Direct.md)
+- [Wii Fit U Direct 2013.9.18 プレゼンテーション映像](./2013/2013-09-18-Nintendo-Direct.md)
+- [モンスターハンター4 Direct 2013.9.8 プレゼンテーション映像](./2013/2013-09-08-Nintendo-Direct.md)
+- [Pokémon Direct 2013.9.4](./2013/2013-09-04-Pokémon-Direct.md)
+- [The Wonderful 101 Direct 2013.8.9 プレゼンテーション映像](./2013/2013-08-09-Nintendo-Direct.md)
+- [Nintendo Direct 2013.8.7](./2013/2013-08-07-Nintendo-Direct.md)
+- [ちょっと Nintendo Direct うごくメモ帳 3D 2013.7.24](./2013/2013-07-24-Nintendo-Direct-Mini.md)
 - [Nintendo Direct Mini 7.18.13](./2013/2013-07-18-Nintendo-Direct-Mini.md)
 - [ちょっと Nintendo Direct Wii U / ニンテンドー3DS ダウンロードソフト 2013.7.3](./2013/2013-07-03-Nintendo-Direct-Mini.md)
 - [ピクミン3 Direct 2013.6.26](./2013/2013-06-26-Nintendo-Direct.md)
