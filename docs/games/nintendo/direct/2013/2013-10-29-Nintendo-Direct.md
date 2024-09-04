@@ -2,6 +2,7 @@
 title: ちょっと Nintendo Direct 大合奏！バンドブラザーズＰ 2013.10.29
 tags:
   - 3DS
+  - Single Game Direct
 ---
 
 > 2013 年 10 月 29 日，任天堂召开迷你直播会，介绍 3DS 游戏《大合奏 乐团兄弟 P》的消息。

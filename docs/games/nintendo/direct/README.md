@@ -57,6 +57,20 @@ tags:
 
 ## 2014
 
+- [Nintendo Direct 2014.11.6 プレゼンテーション映像](./2014/2014-11-06-Nintendo-Direct.md)
+- [大乱闘スマッシュブラザーズ for Wii Uがスゴい50の理由](./2014/2014-10-24-Super-Smash-Bros-Direct.md)
+- [モンスターハンター4G Direct 2014.10.8](./2014/2014-10-08-Nintendo-Direct.md)
+- [ベヨネッタ2 Direct 2014.9.5 プレゼンテーション映像](./2014/2014-09-05-Nintendo-Direct.md)
+- [Nintendo 3DS Direct 2014.8.29 プレゼンテーション映像](./2014/2014-08-29-Nintendo-3DS-Direct.md)
+- [ゼルダ無双 Direct 2014.8.5 プレゼンテーション映像](./2014/2014-08-05-Nintendo-Direct.md)
+- [Nintendo 3DS Direct 3rd Party Publisher Games 2014.7.11 プレゼンテーション映像](./2014/2014-07-11-Nintendo-3DS-Direct.md)
+- [妖怪ウォッチ2 Direct 2014 7 4 プレゼンテーション映像](./2014/2014-07-04-Nintendo-Direct.md)
+- [【E3 2014】Nintendo Digital Event](./2014/2014-06-11-Nintendo-Direct.md)
+- [マリオカート8 Direct 2014 4 30 プレゼンテーション映像](./2014/2014-04-30-Nintendo-Direct.md)
+- [Tomodachi Life Direct 2014.4.10](./2014/2014-04-10-Nintendo-Direct.md)
+- [大乱闘スマッシュブラザーズ Direct 2014.4.9 プレゼンテーション映像](./2014/2014-04-09-Super-Smash-Bros-Direct.md)
+- [Nintendo Direct 2014.2.14 プレゼンテーション映像](./2014/2014-02-14-Nintendo-Direct.md)
+
 ## 2013
 
 - [Nintendo Direct 2013.12.18 プレゼンテーション映像](./2013/2013-12-18-Nintendo-Direct.md)

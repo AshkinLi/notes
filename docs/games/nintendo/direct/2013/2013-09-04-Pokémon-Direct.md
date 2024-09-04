@@ -2,6 +2,7 @@
 title: Pokémon Direct 2013.9.4
 tags:
   - 3DS
+  - Single Game Direct
   - 宝可梦 X / Y
   - 宝可梦虚拟银行。
 ---
