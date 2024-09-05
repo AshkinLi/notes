@@ -55,6 +55,10 @@ tags:
 
 ## 2015
 
+- [Splatoon Direct 2015.5.7 プレゼンテーション映像](./2015/2015-05-07-Nintendo-Direct.md)
+- [Nintendo Direct 2015.4.2 プレゼンテーション映像](./2015/2015-04-02-Nintendo-Direct.md)
+- [Nintendo Direct 2015.1.14 プレゼンテーション映像](./2015/2015-01-14-Nintendo-Direct.md)
+
 ## 2014
 
 - [Nintendo Direct 2014.11.6 プレゼンテーション映像](./2014/2014-11-06-Nintendo-Direct.md)
