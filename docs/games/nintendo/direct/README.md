@@ -51,6 +51,12 @@ tags:
 
 ## 2017
 
+- [『精靈寶可夢(Pokémon)』最新遊戲介紹](./2017/2017-06-06-Pokémon-Direct.md)
+- [ARMS Direct 2017.5.18 プレゼンテーション映像](./2017/2017-05-18-Nintendo-Direct.md)
+- [Nintendo Direct 2017.4.13 プレゼンテーション映像](./2017/2017-04-13-Nintendo-Direct.md)
+- [FIRE EMBLEM遊戲製作人的特別影片（國語）](./2017/2017-02-13-Nintendo-Direct.md)
+- [ファイアーエムブレム Direct 2017.1.19 プレゼンテーション映像](./2017/2017-01-19-Nintendo-Direct.md)
+
 ## 2016
 
 - [Miitopia Direct 2016.11.5 プレゼンテーション映像](./2016/2016-11-05-Nintendo-Direct.md)
