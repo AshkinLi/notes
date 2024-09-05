@@ -55,6 +55,11 @@ tags:
 
 ## 2015
 
+- [【スマブラ3DS・WiiU】 最後の特別番組](./2015/2015-12-16-Super-Smash-Bros-Direct.md)
+- [Nintendo Direct 2015.11.13](./2015/2015-11-13-Nintendo-Direct.md)
+- [Nintendo Digital Event @ E3 2015](./2015/2015-06-17-Nintendo-Direct.md)
+- [【スマブラ3DS・WiiU】 2015年6月 新要素のお知らせ](./2015/2015-06-14-Super-Smash-Bros-Direct.md)
+- [Nintendo Direct 2015.5.31 プレゼンテーション映像](./2015//2015-05-31-Nintendo-Direct.md)
 - [Splatoon Direct 2015.5.7 プレゼンテーション映像](./2015/2015-05-07-Nintendo-Direct.md)
 - [Nintendo Direct 2015.4.2 プレゼンテーション映像](./2015/2015-04-02-Nintendo-Direct.md)
 - [Nintendo Direct 2015.1.14 プレゼンテーション映像](./2015/2015-01-14-Nintendo-Direct.md)
