@@ -53,6 +53,15 @@ tags:
 
 ## 2016
 
+- [Miitopia Direct 2016.11.5 プレゼンテーション映像](./2016/2016-11-05-Nintendo-Direct.md)
+- [とびだせ どうぶつの森 Direct 2016.11.2 プレゼンテーション映像](./2016/2016-11-02-Nintendo-Direct.md)
+- [モンスターハンター Direct 2016.10.27 プレゼンテーション映像](./2016/2016-10-27-Nintendo-Direct.md)
+- [Nintendo 3DS Direct 2016.9.1 プレゼンテーション映像](./2016/2016-09-01-Nintendo-3DS-Direct.md)
+- [カルドセプト® リボルト Direct 第2弾 新能力編 2016.6.22 プレゼンテーション映像](./2016/2016-06-22-Nintendo-Direct.md)
+- [カルドセプト® リボルト Direct 新ルール篇 2016.5.11 プレゼンテーション映像](./2016/2016-05-11-Nintendo-Direct.md)
+- [Nintendo Direct 2016.3.4 プレゼンテーション映像](./2016/2016-03-04-Nintendo-Direct.md)
+- [有關Pokémon最新消息](./2016/2016-02-27-Pokémon-Direct.md)
+
 ## 2015
 
 - [【スマブラ3DS・WiiU】 最後の特別番組](./2015/2015-12-16-Super-Smash-Bros-Direct.md)
