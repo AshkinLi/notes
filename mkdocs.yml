@@ -48,12 +48,12 @@ theme:
 # Plugins
 plugins:
   - blog
-  - git-committers:
-      repository: AshkinLi/notes
-      branch: source
-  - git-revision-date-localized:
-      enable_creation_date: true
-      timezone: Asia/Shanghai
+  # - git-committers:
+  #     repository: AshkinLi/notes
+  #     branch: source
+  # - git-revision-date-localized:
+  #     enable_creation_date: true
+  #     timezone: Asia/Shanghai
   - meta
   - offline
   - optimize
