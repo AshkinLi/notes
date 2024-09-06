@@ -49,6 +49,18 @@ tags:
 
 ## 2018
 
+- [『任天堂明星大亂鬥 特別版』直播會 2018.11.1](./2018/2018-11-01-Super-Smash-Bros-Direct.md)
+- [Nintendo Direct 2018.9.14](./2018/2018-09-14-Nintendo-Direct.md)
+- [Dragalia Lost Direct 2018.8.30](./2018/2018-08-30-Mobile-Direct.md)
+- [Nintendo Switch Nindies Showcase Summer 2018](./2018/2018-08-28-Nindies-Showcase.md)
+- [Indie Highlights - 20.08.2018 (Nintendo Switch)](./2018/2018-08-20-Indie-Highlights.md)
+- [『任天堂明星大亂鬥 特別版』直播會 2018.8.8](./2018/2018-08-08-Super-Smash-Bros-Direct.md)
+- [Nintendo Direct: E3 2018](./2018/2018-06-13-Nintendo-Direct.md)
+- [Indie World 2018.5.11](./2018/2018-05-11-Indie-World.md)
+- [Nintendo Switch Nindies Showcase Spring 2018](./2018/2018-03-20-Nindies-Showcase.md)
+- [Nintendo Direct 2018.3.9](./2018/2018-03-09-Nintendo-Direct.md)
+- [Nintendo Direct mini 2018.1.11](./2018/2018-01-11-Nintendo-Direct-Mini.md)
+
 ## 2017
 
 - [ゼノブレイド2 Direct 2017.11.7 プレゼンテーション映像](./2017/2017-11-07-Nintendo-Direct.md)
