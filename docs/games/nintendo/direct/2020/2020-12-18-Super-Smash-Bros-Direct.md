@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2020年12月18日任天堂明星大乱斗直播节目：萨菲罗斯的使用方法](https://www.bilibili.com/video/BV1e44y147YJ/){ target="_blank" }
+- [2020 年 12 月 18 日任天堂明星大乱斗直播节目：萨菲罗斯的使用方法](https://www.bilibili.com/video/BV1e44y147YJ/){ target="_blank" }

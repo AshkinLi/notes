@@ -42,6 +42,19 @@ tags:
 - [Nintendo Direct 2022.2.10](./2022/2022-02-10-Nintendo-Direct.md)
 
 ## 2021
+ 
+- [Indie World 2021.12.16](./2021/2021-12-16-Indie-World.md)
+- [集合啦！動物森友會 Direct 2021.10.15（香港）](./2021/2021-10-15-Nintendo-Direct.md)
+- [【スマブラSP】ソラのつかいかた](./2021/2021-10-05-Super-Smash-Bros-Direct.md)
+- [Nintendo Direct 2021.9.24](./2021/2021-09-24-Nintendo-Direct.md)
+- [【官方】Pokémon Presents 2021.8.18](./2021/2021-08-18-Pokémon-Presents.md)
+- [Indie World Showcase 8.11.2021 - Nintendo Switch](./2021/2021-08-11-Indie-World.md)
+- [【スマブラSP】カズヤのつかいかた](./2021/2021-06-28-Super-Smash-Bros-Direct.md)
+- [Nintendo Direct | E3 2021](./2021/2021-06-16-Nintendo-Direct.md)
+- [Indie World 2021.4.15](./2021/2021-04-15-Indie-World.md)
+- [【大亂鬥特別版】焰 / 光的使用方法](./2021/2021-03-04-Super-Smash-Bros-Direct.md)
+- [Pokémon Presents 2021.02.26](./2021/2021-02-27-Pokémon-Presents.md)
+- [Nintendo Direct 2021.2.18](./2021/2021-02-18-Nintendo-Direct.md)
 
 ## 2020
 
