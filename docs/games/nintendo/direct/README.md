@@ -45,6 +45,27 @@ tags:
 
 ## 2020
 
+- [スーパー・ニンテンドー・ワールド Direct](./2020/2020-12-19-Super-Nintendo-World-Direct.md)
+- [【大亂鬥特別版】賽菲羅斯的使用方法](./2020/2020-12-18-Super-Smash-Bros-Direct.md)
+- [Indie World 2020.12.16](./2020/2020-12-16-Indie-World.md)
+- [Nintendo Direct mini ソフトメーカーラインナップ 2020.10](./2020/2020-10-28-Partner-Showcase.md)
+- [【大亂鬥特別版】史提夫/愛莉克斯的使用方法](./2020/2020-10-03-Super-Smash-Bros-Direct.md)
+- [Monster Hunter Direct – 2020.9.17](./2020/2020-09-17-Nintendo-Direct.md)
+- [Nintendo Direct mini ソフトメーカーラインナップ 2020.9](./2020/2020-09-17-Partner-Showcase.md)
+- [超級瑪利歐兄弟35週年 直播會](./2020/2020-09-03-Nintendo-Direct.md)
+- [Nintendo Direct mini ソフトメーカーラインナップ 2020.8](./2020/2020-08-26-Partner-Showcase.md)
+- [国行《健身环大冒险》线上发布活动](./2020/2020-08-19-Nintendo-Direct.md)
+- [Indie World Showcase 8.18.2020 - Nintendo Switch](./2020/2020-08-18-Indie-World.md)
+- [Nintendo Direct mini ソフトメーカーラインナップ 2020.7](./2020/2020-07-20-Partner-Showcase.md)
+- [寶可夢新作發表會 Pokémon Presents 2020.6.24](./2020/2020-06-24-Pokémon-Presents.md)
+- [【大亂鬥特別版】麵麵的使用方法](./2020/2020-06-22-Super-Smash-Bros-Direct.md)
+- [寶可夢新作發表會 Pokémon Presents 2020.6.17](./2020/2020-06-17-Pokémon-Presents.md)
+- [Nintendo Direct mini 2020.3.26](./2020/2020-03-26-Nintendo-Direct-Mini.md)
+- [Nintendo Switch - Indie World Showcase 3.17.2020](./2020/2020-03-17-Indie-World.md)
+- [《集合啦！ 動物森友會》Direct 2020.2.20](./2020/2020-02-20-Nintendo-Direct.md)
+- [【大亂鬥特別版】貝雷特/貝雷絲的使用方法](./2020/2020-01-16-Super-Smash-Bros-Direct.md)
+- [(首次公開影片)開發者介紹『寶可夢 劍／盾 擴充票』](./2020/2020-01-09-Pokémon-Direct.md)
+
 ## 2019
 
 - [Indie World 2019.12.11](./2019/2019-12-11-Indie-World.md)
