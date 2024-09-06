@@ -51,6 +51,13 @@ tags:
 
 ## 2017
 
+- [ゼノブレイド2 Direct 2017.11.7 プレゼンテーション映像](./2017/2017-11-07-Nintendo-Direct.md)
+- [スマートフォン版 どうぶつの森 Direct 2017.10.25](./2017/2017-10-25-Mobile-Direct.md)
+- [Nintendo Direct 2017.9.14 プレゼンテーション映像](./2017/2017-09-14-Nintendo-Direct.md)
+- [Nintendo Switch Nindies Showcase Summer 2017](./2017/2017-08-30-Nindies-Showcase.md)
+- [スプラトゥーン2 Direct 2017.7.6 プレゼンテーション映像](./2017/2017-07-06-Nintendo-Direct.md)
+- [ドラゴンクエストXI 過ぎ去りし時を求めて Direct 2017.6.21](./2017/2017-06-21-Nintendo-Direct.md)
+- [Nintendo Spotlight E3 2017 プレゼンテーション映像](./2017/2017-06-14-Nintendo-Direct.md)
 - [『精靈寶可夢(Pokémon)』最新遊戲介紹](./2017/2017-06-06-Pokémon-Direct.md)
 - [ARMS Direct 2017.5.18 プレゼンテーション映像](./2017/2017-05-18-Nintendo-Direct.md)
 - [Nintendo Direct 2017.4.13 プレゼンテーション映像](./2017/2017-04-13-Nintendo-Direct.md)
