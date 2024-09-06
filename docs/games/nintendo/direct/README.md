@@ -47,8 +47,25 @@ tags:
 
 ## 2019
 
+- [Indie World 2019.12.11](./2019/2019-12-11-Indie-World.md)
+- [【大亂鬥特別版】泰利的使用方法](./2019/2019-11-06-Super-Smash-Bros-Direct.md)
+- [【大亂鬥特別版】 阿邦＆阿卡的使用方法](./2019/2019-09-05-Super-Smash-Bros-Direct.md)
+- [Nintendo Direct 2019.9.5](./2019/2019-09-05-Nintendo-Direct.md)
+- [Nintendo Switch - Indie World Showcase - 8.19.2019](./2019/2019-08-19-Indie-World.md)
+- [【大亂鬥特別版】勇者的使用方法](./2019/2019-07-30-Super-Smash-Bros-Direct.md)
+- [Nintendo SpotLight E3 2019](./2019/2019-06-12-Nintendo-Direct.md)
+- [Pokémon Direct 2019.6.5](./2019/2019-06-05-Pokémon-Direct.md)
+- [Indie World 2019.5.31](./2019/2019-05-31-Indie-World.md)
+- [《Super Mario Maker 2 (超級瑪利歐創作家 2)》Direct 2019.5.16](./2019/2019-05-16-Nintendo-Direct.md)
+- [【大亂鬥特別版】Ver. 3.0更新介紹影片](./2019/2019-04-17-Super-Smash-Bros-Direct.md)
+- [Nindies Showcase Spring 2019](./2019/2019-03-20-Nindies-Showcase.md)
+- [Pokémon Direct 2019.2.27](./2019/2019-02-27-Pokémon-Direct.md)
+- [Nintendo Direct 2019.2.14](./2019/2019-02-14-Nintendo-Direct.md)
+- [Indie Highlights - 23.01.2019 (Nintendo Switch)](./2019/2019-01-23-Indie-Highlights.md)
+
 ## 2018
 
+- [Indie World 2018.12.27](./2018/2018-12-27-Indie-World.md)
 - [『任天堂明星大亂鬥 特別版』直播會 2018.11.1](./2018/2018-11-01-Super-Smash-Bros-Direct.md)
 - [Nintendo Direct 2018.9.14](./2018/2018-09-14-Nintendo-Direct.md)
 - [Dragalia Lost Direct 2018.8.30](./2018/2018-08-30-Mobile-Direct.md)
