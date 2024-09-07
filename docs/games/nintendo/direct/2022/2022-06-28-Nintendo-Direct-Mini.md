@@ -3,7 +3,6 @@ title: Nintendo Direct mini ソフトメーカーラインナップ 2022.6.28
 tags:
   - Switch
   - Partner Showcase
-  - Nintendo Direct Mini
   - Third-party
 ---
 
@@ -33,7 +32,7 @@ tags:
 	2. 超级炸弹人 R2
 	3. LIVE A LIVE
 	4. 尼尔 自动人形
-	5. 马力欧 + 疯兔 星耀之愿
+	5. 马力欧 + 疯狂兔子 星耀之愿
 	6. 哆啦 A 梦 大雄的牧场物语 大自然的王国和大家的家
 	7. 角色扮演游戏的时间
 	8. 我的世界 传说

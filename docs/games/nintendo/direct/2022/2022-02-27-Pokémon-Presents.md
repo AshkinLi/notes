@@ -4,7 +4,7 @@ tags:
   - Switch
   - Pokémon Presents
   - 宝可梦
-  - 宝可梦 Go
+  - 宝可梦 GO
   - 宝可梦大师 EX
   - 宝可梦咖啡店
   - 宝可梦大集结
