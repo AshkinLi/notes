@@ -2,6 +2,8 @@
 title: Nintendo 3DS Direct 2014.8.29 プレゼンテーション映像
 tags:
   - 3DS
+  - New 3DS
+  - New 3DS LL
   - 任天堂明星大乱斗 for 3DS / Wii U
   - 异度神剑 3D
 ---

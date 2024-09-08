@@ -1,12 +1,13 @@
 ---
 title: Nintendo Direct @E3 2013 プレゼンテーション映像
 tags:
-  - 3DS
+  - E3
   - Wii U
+  - 3DS
   - 宝可梦 X / Y
   - 超级马力欧 3D 世界
   - 马力欧卡丁车 8
-  - Wii 派对 U
+  - Wii Party U
   - Wii Fit U
   - 绘心教室
   - 塞尔达传说 风之律动 HD
@@ -46,7 +47,7 @@ tags:
 :   1. 宝可梦 X / Y
 	2. 超级马力欧 3D 世界
 	3. 马力欧卡丁车 8
-	4. Wii 派对 U
+	4. Wii Party U
 	5. Wii Fit U
 	6. 绘心教室
 	7. 塞尔达传说 风之律动 HD

@@ -5,7 +5,7 @@ tags:
   - 任天堂网络 ID
   - Miiverse
   - WiiU 聊天
-  - Wii 卡拉 OK U
+  - Wii Karaoke U
   - 新超级马力欧兄弟 U
 ---
 
@@ -34,7 +34,7 @@ tags:
     2. 任天堂网络 ID
     3. Miiverse
     4. WiiU 聊天
-    5. Wii 卡拉 OK U
+    5. Wii Karaoke U
     6. 新超级马力欧兄弟 U
 
 **备注**

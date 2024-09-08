@@ -1,6 +1,7 @@
 ---
 title: Nintendo SpotLight E3 2019
 tags:
+  - E3
   - Switch
   - 任天堂明星大乱斗 特别版
   - 路易吉洋馆 3

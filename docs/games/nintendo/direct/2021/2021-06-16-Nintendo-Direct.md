@@ -2,6 +2,7 @@
 title: Nintendo Direct | E3 2021
 tags:
   - Switch
+  - E3
   - 任天堂明星大乱斗 特别版
   - 马力欧派对 超级巨星
   - 密特罗德 生存恐惧

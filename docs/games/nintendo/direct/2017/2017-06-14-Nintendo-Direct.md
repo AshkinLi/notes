@@ -1,6 +1,7 @@
 ---
 title: Nintendo Spotlight E3 2017 プレゼンテーション映像
 tags:
+  - E3
   - Switch
   - 3DS
   - ARMS

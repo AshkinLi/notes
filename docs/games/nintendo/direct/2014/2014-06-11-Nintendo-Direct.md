@@ -1,8 +1,9 @@
 ---
 title: 【E3 2014】Nintendo Digital Event
 tags:
-  - 3DS
+  - E3
   - Wii U
+  - 3DS
   - 任天堂明星大乱斗 for 3DS / Wii U
   - Amiibo
   - 毛线耀西

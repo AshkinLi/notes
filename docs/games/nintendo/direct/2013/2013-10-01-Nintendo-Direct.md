@@ -4,7 +4,7 @@ tags:
   - 3DS
   - Wii U
   - 超级马力欧 3D 世界
-  - Wii 派对 U
+  - Wii Party U
   - 马力欧和索尼克在索契冬奥会
   - 任天堂明星大乱斗 for 3DS / Wii U
   - 皮克敏 3
@@ -40,7 +40,7 @@ tags:
 **主要内容**
 
 :   1. 超级马力欧 3D 世界
-	2. Wii 派对 U
+	2. Wii Party U
 	3. 马力欧和索尼克在索契冬奥会
 	4. 任天堂明星大乱斗 for 3DS / Wii U
 	5. 太鼓达人 Wii U

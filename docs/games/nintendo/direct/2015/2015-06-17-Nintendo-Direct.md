@@ -1,8 +1,9 @@
 ---
 title: Nintendo Digital Event @ E3 2015
 tags:
-  - 3DS
+  - E3
   - Wii U
+  - 3DS
   - 星际火狐 零
   - 塞尔达传说 三角力量三剑客
   - 塞尔达无双
