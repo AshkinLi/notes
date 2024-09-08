@@ -17,7 +17,7 @@ tags:
 
 ---
 
-> 2013年4月17日，任天堂召开直播会，以路易吉年的游戏为中心，介绍 3DS 和 Wii U 游戏的新消息。
+> 2013年4月17日，任天堂召开直面会，以路易吉年的游戏为中心，介绍 3DS 和 Wii U 游戏的新消息。
 
 **日版标题**
 
@@ -60,8 +60,8 @@ tags:
 
 **备注**
 
-:   另一场路易吉特别直播会为 2013 年 2 月 14 日任天堂 3DS 直播会([Nintendo 3DS Direct Luigi special 2013.2.14](./2013-02-14-Nintendo-3DS-Direct.md))。
+:   另一场路易吉特别直面会为 2013 年 2 月 14 日任天堂 3DS 直面会([Nintendo 3DS Direct Luigi special 2013.2.14](./2013-02-14-Nintendo-3DS-Direct.md))。
 
 ## 外部链接
 
-- [2013 年 4 月 17 日任天堂直播会](https://www.bilibili.com/video/BV1tJ411v7dq/){ target="_blank" }
+- [2013 年 4 月 17 日任天堂直面会](https://www.bilibili.com/video/BV1tJ411v7dq/){ target="_blank" }

@@ -14,7 +14,7 @@ tags:
   - 蓓优妮塔 3
 ---
 
-> 2021 年 9 月 24 日，任天堂召开直播会，以 2021 年冬天发售的游戏为中心，介绍 Switch 游戏的相关消息。
+> 2021 年 9 月 24 日，任天堂召开直面会，以 2021 年冬天发售的游戏为中心，介绍 Switch 游戏的相关消息。
 
 **日版标题**
 
@@ -66,4 +66,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 9 月 24 日任天堂直播会](https://www.bilibili.com/video/BV1eq4y1P7Si/){ target="_blank" }
+- [2021 年 9 月 24 日任天堂直面会](https://www.bilibili.com/video/BV1eq4y1P7Si/){ target="_blank" }

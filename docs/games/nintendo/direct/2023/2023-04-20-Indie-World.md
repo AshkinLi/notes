@@ -5,7 +5,7 @@ tags:
   - Indie World
 ---
 
-> 2023 年 4 月 20 日，任天堂召开独立游戏直播会，介绍 Switch 平台独立游戏的消息。
+> 2023 年 4 月 20 日，任天堂召开独立游戏直面会，介绍 Switch 平台独立游戏的消息。
 
 **日版标题**
 
@@ -49,4 +49,4 @@ tags:
 
 ## 外部链接
 
-- [2023 年 4 月 20 日独立游戏直播会](https://www.bilibili.com/video/BV1GV4y1f7JJ/){ target="_blank" }
+- [2023 年 4 月 20 日独立游戏直面会](https://www.bilibili.com/video/BV1GV4y1f7JJ/){ target="_blank" }

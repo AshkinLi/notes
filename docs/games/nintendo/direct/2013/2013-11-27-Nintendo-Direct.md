@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2013 年 11 月 27 日，任天堂召开 3DS 导游 卢浮宫美术馆直播会，介绍 3DS 游戏《3DS 导游 卢浮宫美术馆》的消息。
+> 2013 年 11 月 27 日，任天堂召开 3DS 导游 卢浮宫美术馆直面会，介绍 3DS 游戏《3DS 导游 卢浮宫美术馆》的消息。
 
 **日版标题**
 
@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 11 月 27 日 3DS 导游 卢浮宫美术馆直播会](https://www.bilibili.com/video/BV1iQ4y1A7Nw/){ target="_blank" }
+- [2013 年 11 月 27 日 3DS 导游 卢浮宫美术馆直面会](https://www.bilibili.com/video/BV1iQ4y1A7Nw/){ target="_blank" }

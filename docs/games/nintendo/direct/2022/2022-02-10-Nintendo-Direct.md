@@ -13,7 +13,7 @@ tags:
 
 ---
 
-> 2022 年 2 月 10 日，任天堂召开直播会，介绍 2022 年上半年发售的 Switch 游戏的相关消息。
+> 2022 年 2 月 10 日，任天堂召开直面会，介绍 2022 年上半年发售的 Switch 游戏的相关消息。
 
 **日版标题**
 
@@ -45,4 +45,4 @@ tags:
 
 ## 外部链接
 
-- [2022年2月10日任天堂直播会](https://www.bilibili.com/video/BV175411o7Wm/){ target="_blank" }
+- [2022年2月10日任天堂直面会](https://www.bilibili.com/video/BV175411o7Wm/){ target="_blank" }

@@ -7,7 +7,7 @@ tags:
   - 宝可梦 剑 / 盾 扩充票
 ---
 
-> 2020 年 1 月 9 日，宝可梦公司召开宝可梦直播会，介绍《宝可梦》的相关消息。
+> 2020 年 1 月 9 日，宝可梦公司召开宝可梦直面会，介绍《宝可梦》的相关消息。
 
 **日版标题**
 
@@ -52,4 +52,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 1 月 9 日宝可梦直播会](https://www.bilibili.com/video/BV12X4y1u7Eh/){ target="_blank" }
+- [2020 年 1 月 9 日宝可梦直面会](https://www.bilibili.com/video/BV12X4y1u7Eh/){ target="_blank" }

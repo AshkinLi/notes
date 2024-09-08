@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2014 年 7 月 4 日，任天堂召开妖怪手表 2 直播会，介绍 3DS 游戏《妖怪手表 2》的消息。
+> 2014 年 7 月 4 日，任天堂召开妖怪手表 2 直面会，介绍 3DS 游戏《妖怪手表 2》的消息。
 
 **日版标题**
 
@@ -25,4 +25,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 7 月 4 日妖怪手表 2 直播会](https://www.bilibili.com/video/BV1PC4y1a7Ar/){ target="_blank" }
+- [2014 年 7 月 4 日妖怪手表 2 直面会](https://www.bilibili.com/video/BV1PC4y1a7Ar/){ target="_blank" }

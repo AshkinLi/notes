@@ -6,7 +6,7 @@ tags:
   - Third-party
 ---
 
-> 2013 年 2 月 21 日，任天堂召开 3DS 直播会，介绍第三方 3DS 游戏的新消息。
+> 2013 年 2 月 21 日，任天堂召开 3DS 直面会，介绍第三方 3DS 游戏的新消息。
 
 **日版标题**
 
@@ -37,4 +37,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 2 月 21 日任天堂 3DS 直播会](https://www.bilibili.com/video/BV1tJ411v7XN/){ target="_blank" }
+- [2013 年 2 月 21 日任天堂 3DS 直面会](https://www.bilibili.com/video/BV1tJ411v7XN/){ target="_blank" }

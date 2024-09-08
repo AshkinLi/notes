@@ -6,7 +6,7 @@ tags:
   - Third-party
 ---
 
-> 2020 年 10 月 28 日，任天堂召开迷你直播会，介绍第三方厂商 Switch 游戏的消息。
+> 2020 年 10 月 28 日，任天堂召开迷你直面会，介绍第三方厂商 Switch 游戏的消息。
 
 **日版标题**
 
@@ -41,4 +41,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 10 月 28 日任天堂迷你直播会：第三方厂商](https://www.bilibili.com/video/BV1ao4y1o7Pn/){ target="_blank" }
+- [2020 年 10 月 28 日任天堂迷你直面会：第三方厂商](https://www.bilibili.com/video/BV1ao4y1o7Pn/){ target="_blank" }

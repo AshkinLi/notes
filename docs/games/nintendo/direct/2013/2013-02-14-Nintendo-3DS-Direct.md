@@ -11,7 +11,7 @@ tags:
   - 咚奇刚归来 3D
 ---
 
-> 2013 年 2 月 14 日，任天堂召开 3DS 直播会，介绍 3DS 游戏的新消息。
+> 2013 年 2 月 14 日，任天堂召开 3DS 直面会，介绍 3DS 游戏的新消息。
 
 **日版标题**
 
@@ -50,8 +50,8 @@ tags:
 
 **备注**
 
-:   任天堂将路易吉诞生 30 周年的 2013 年定为路易吉年。另一场路易吉特别直播会为 2013 年 4 月 17 日任天堂直播会（[Nintendo Direct Luigi special 2 2013.4.17 プレゼンテーション映像](./2013-04-17-Nintendo-Direct.md)）。
+:   任天堂将路易吉诞生 30 周年的 2013 年定为路易吉年。另一场路易吉特别直面会为 2013 年 4 月 17 日任天堂直面会（[Nintendo Direct Luigi special 2 2013.4.17 プレゼンテーション映像](./2013-04-17-Nintendo-Direct.md)）。
 
 ## 外部链接
 
-- [2013 年 2 月 14 日任天堂 3DS 直播会](https://www.bilibili.com/video/BV1bJ411v7Wr/){ target="_blank" }
+- [2013 年 2 月 14 日任天堂 3DS 直面会](https://www.bilibili.com/video/BV1bJ411v7Wr/){ target="_blank" }

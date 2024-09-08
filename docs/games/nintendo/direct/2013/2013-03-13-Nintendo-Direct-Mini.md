@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2013 年 3 月 13 日，任天堂召开迷你直播会，介绍 3DS 游戏《移动记事本 3D》的消息。
+> 2013 年 3 月 13 日，任天堂召开迷你直面会，介绍 3DS 游戏《移动记事本 3D》的消息。
 
 **日版标题**
 
@@ -31,4 +31,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 3 月 13 日任天堂迷你直播会：移动记事本 3D](https://www.bilibili.com/video/BV1tJ411v7XN/){ target="_blank" }
+- [2013 年 3 月 13 日任天堂迷你直面会：移动记事本 3D](https://www.bilibili.com/video/BV1tJ411v7XN/){ target="_blank" }

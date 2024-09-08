@@ -10,7 +10,7 @@ tags:
   - 宝可梦 剑 / 盾
 ---
 
-> 2020 年 3 月 26 日，任天堂召开迷你直播会，介绍 Switch 游戏的消息。
+> 2020 年 3 月 26 日，任天堂召开迷你直面会，介绍 Switch 游戏的消息。
 
 **日版标题**
 
@@ -48,4 +48,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 3 月 26 日任天堂迷你直播会](https://www.bilibili.com/video/BV1ja411c7VX/){ target="_blank" }
+- [2020 年 3 月 26 日任天堂迷你直面会](https://www.bilibili.com/video/BV1ja411c7VX/){ target="_blank" }

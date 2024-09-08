@@ -5,7 +5,7 @@ tags:
   - 斯普拉遁 2
 ---
 
-> 2017 年 7 月 6 日，任天堂召开斯普拉遁 2 直播会，介绍 Switch 游戏《斯普拉遁 2》的消息。
+> 2017 年 7 月 6 日，任天堂召开斯普拉遁 2 直面会，介绍 Switch 游戏《斯普拉遁 2》的消息。
 
 **日版标题**
 
@@ -27,4 +27,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 7 月 6 日斯普拉遁 2 直播会](https://www.bilibili.com/video/BV1eT4y1F7hy/){ target="_blank" }
+- [2017 年 7 月 6 日斯普拉遁 2 直面会](https://www.bilibili.com/video/BV1eT4y1F7hy/){ target="_blank" }

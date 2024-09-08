@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2013 年 8 月 9 日，任天堂召开神奇 101 直播会，介绍 WiiU 游戏《神奇 101》的消息。
+> 2013 年 8 月 9 日，任天堂召开神奇 101 直面会，介绍 WiiU 游戏《神奇 101》的消息。
 
 **日版标题**
 
@@ -31,4 +31,4 @@ tags:
 
 ## 外部链接
 
-- [2013年8月9日神奇101直播会](https://www.bilibili.com/video/BV1cz411q7tQ/){ target="_blank" }
+- [2013年8月9日神奇101直面会](https://www.bilibili.com/video/BV1cz411q7tQ/){ target="_blank" }

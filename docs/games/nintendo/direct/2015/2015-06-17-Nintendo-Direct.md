@@ -19,7 +19,7 @@ tags:
   - 超级马力欧创作家
 ---
 
-> 2015 年 6 月 17 日，任天堂召开 E3 直播会，介绍 2016 年初之前发售的 Wii U 和 3DS 游戏消息。
+> 2015 年 6 月 17 日，任天堂召开 E3 直面会，介绍 2016 年初之前发售的 Wii U 和 3DS 游戏消息。
 
 **日版标题**
 
@@ -72,4 +72,4 @@ tags:
 
 ## 外部链接
 
-- [2015 年 6 月 17 日任天堂 E3 直播会](https://www.bilibili.com/video/BV1LJ411L775/){ target="_blank" }
+- [2015 年 6 月 17 日任天堂 E3 直面会](https://www.bilibili.com/video/BV1LJ411L775/){ target="_blank" }

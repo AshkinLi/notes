@@ -5,7 +5,7 @@ tags:
   - E3
 ---
 
-> 2012 年 6 月 4 日，任天堂召开 E3 展前直播会，介绍有关 Wii U 的最新消息。
+> 2012 年 6 月 4 日，任天堂召开 E3 展前直面会，介绍有关 Wii U 的最新消息。
 
 **日版标题**
 
@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 6 月 4 日任天堂直播会](https://www.bilibili.com/video/BV12E411a73P/){ target="_blank" }
+- [2012 年 6 月 4 日任天堂直面会](https://www.bilibili.com/video/BV12E411a73P/){ target="_blank" }

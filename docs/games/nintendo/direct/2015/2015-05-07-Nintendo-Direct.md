@@ -5,7 +5,7 @@ tags:
   - 斯普拉遁
 ---
 
-> 2015 年 5 月 7 日，任天堂召开斯普拉遁直播会，介绍 Wii U 游戏《斯普拉遁》的消息。
+> 2015 年 5 月 7 日，任天堂召开斯普拉遁直面会，介绍 Wii U 游戏《斯普拉遁》的消息。
 
 **日版标题**
 
@@ -27,4 +27,4 @@ tags:
 
 ## 外部链接
 
-- [2015 年 5 月 7 日斯普拉遁直播会](https://www.bilibili.com/video/BV1Dp4y1S7yv/){ target="_blank" }
+- [2015 年 5 月 7 日斯普拉遁直面会](https://www.bilibili.com/video/BV1Dp4y1S7yv/){ target="_blank" }

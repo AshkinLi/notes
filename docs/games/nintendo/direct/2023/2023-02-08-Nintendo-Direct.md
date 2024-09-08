@@ -14,7 +14,7 @@ tags:
   - 塞尔达传说 王国之泪
 ---
 
-> 2023 年 2 月 9 日，任天堂召开直播会，介绍 2023 年上半年发售的 Switch 游戏的相关消息。
+> 2023 年 2 月 9 日，任天堂召开直面会，介绍 2023 年上半年发售的 Switch 游戏的相关消息。
 
 **日版标题**
 
@@ -66,4 +66,4 @@ tags:
 
 ## 外部链接
 
-- [2023 年 2 月 9 日任天堂直播会](https://www.bilibili.com/video/BV1C54y1N7nY/){ target="_blank" }
+- [2023 年 2 月 9 日任天堂直面会](https://www.bilibili.com/video/BV1C54y1N7nY/){ target="_blank" }

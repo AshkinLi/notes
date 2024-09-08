@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2013 年 9 月 8 日，任天堂召开怪物猎人 4 直播会，介绍 3DS 游戏《怪物猎人 4》的消息。
+> 2013 年 9 月 8 日，任天堂召开怪物猎人 4 直面会，介绍 3DS 游戏《怪物猎人 4》的消息。
 
 **日版标题**
 
@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 9 月 8 日怪物猎人 4 直播会](https://www.bilibili.com/video/BV11Q4y1N7oM/){ target="_blank" }
+- [2013 年 9 月 8 日怪物猎人 4 直面会](https://www.bilibili.com/video/BV11Q4y1N7oM/){ target="_blank" }

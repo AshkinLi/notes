@@ -11,7 +11,7 @@ tags:
   - 塞尔达传说 王国之泪 
 ---
 
-> 2022 年 9 月 13 日，任天堂召开直播会，以 2022 年冬天发售的游戏为中心，介绍 Switch 游戏的相关消息。
+> 2022 年 9 月 13 日，任天堂召开直面会，以 2022 年冬天发售的游戏为中心，介绍 Switch 游戏的相关消息。
 
 **日版标题**
 
@@ -64,4 +64,4 @@ tags:
 
 ## 外部链接
 
-- [2022 年 9 月 13 日任天堂直播会](https://www.bilibili.com/video/BV1SD4y1q7rH/){ target="_blank" }
+- [2022 年 9 月 13 日任天堂直面会](https://www.bilibili.com/video/BV1SD4y1q7rH/){ target="_blank" }

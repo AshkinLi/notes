@@ -6,7 +6,7 @@ tags:
   - 迷托邦
 ---
 
-> 2016 年 11 月 5 日，任天堂召开迷托邦直播会，介绍 3DS 游戏《迷托邦》的消息。
+> 2016 年 11 月 5 日，任天堂召开迷托邦直面会，介绍 3DS 游戏《迷托邦》的消息。
 
 **日版标题**
 
@@ -26,4 +26,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 11 月 5 日迷托邦直播会](https://www.bilibili.com/video/BV1fK411p7fS/){ target="_blank" }
+- [2016 年 11 月 5 日迷托邦直面会](https://www.bilibili.com/video/BV1fK411p7fS/){ target="_blank" }

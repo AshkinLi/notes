@@ -45,8 +45,8 @@ tags:
 
 **备注**
 
-:	日版直播会结束后，有《王国之心 3D》介绍视频、游戏中心 CX 有野的挑战 3DSVC 篇。日版直播会与美版直播会有较大差异。
+:	日版直面会结束后，有《王国之心 3D》介绍视频、游戏中心 CX 有野的挑战 3DSVC 篇。日版直面会与美版直面会有较大差异。
 
 ## 外部链接
 
-- [2012 年 2 月 22 日任天堂直播会](https://www.bilibili.com/video/BV1AE41117XV/){ target="_blank" }
+- [2012 年 2 月 22 日任天堂直面会](https://www.bilibili.com/video/BV1AE41117XV/){ target="_blank" }

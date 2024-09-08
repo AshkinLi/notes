@@ -11,7 +11,7 @@ tags:
   - 密特罗德 究极 4
 ---
 
-> 2024 年 6 月 18 日，任天堂召开直播会，以 2024 年下半年发售的游戏为中心，介绍 Switch 游戏的相关消息。
+> 2024 年 6 月 18 日，任天堂召开直面会，以 2024 年下半年发售的游戏为中心，介绍 Switch 游戏的相关消息。
 
 **日版标题**
 
@@ -68,4 +68,4 @@ tags:
 
 ## 外部链接
 
-- [2024 年 6 月 18 日任天堂直播会](https://www.bilibili.com/video/BV1Ws421T7VF/){ target="_blank" }
+- [2024 年 6 月 18 日任天堂直面会](https://www.bilibili.com/video/BV1Ws421T7VF/){ target="_blank" }

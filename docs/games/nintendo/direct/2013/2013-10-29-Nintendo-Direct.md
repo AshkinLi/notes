@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2013 年 10 月 29 日，任天堂召开迷你直播会，介绍 3DS 游戏《大合奏 乐团兄弟 P》的消息。
+> 2013 年 10 月 29 日，任天堂召开迷你直面会，介绍 3DS 游戏《大合奏 乐团兄弟 P》的消息。
 
 **日版标题**
 
@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 10 月 29 日任天堂迷你直播会：大合奏 乐团兄弟 P](https://www.bilibili.com/video/BV1Fz411q7RB/){ target="_blank" }
+- [2013 年 10 月 29 日任天堂迷你直面会：大合奏 乐团兄弟 P](https://www.bilibili.com/video/BV1Fz411q7RB/){ target="_blank" }

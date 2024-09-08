@@ -6,7 +6,7 @@ tags:
   - Third-party
 ---
 
-> 2024 年 2 月 21 日，任天堂召开直播会，介绍第三方厂商 Switch 游戏的消息。
+> 2024 年 2 月 21 日，任天堂召开直面会，介绍第三方厂商 Switch 游戏的消息。
 
 **日版标题**
 
@@ -52,4 +52,4 @@ tags:
 
 ## 外部链接
 
-- [2024 年 2 月 21 日任天堂直播会：第三方厂商](https://www.bilibili.com/video/BV1vS421N7aH/){ target="_blank" }
+- [2024 年 2 月 21 日任天堂直面会：第三方厂商](https://www.bilibili.com/video/BV1vS421N7aH/){ target="_blank" }

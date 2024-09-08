@@ -10,7 +10,7 @@ tags:
   - 神奇 101
 ---
 
-> 2013 年 7 月 18 日，任天堂召开迷你直播会，介绍 3DS 和 Wii U 软件的消息。
+> 2013 年 7 月 18 日，任天堂召开迷你直面会，介绍 3DS 和 Wii U 软件的消息。
 
 **美版标题**
 
@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 7 月 18 日任天堂迷你直播会](https://www.bilibili.com/video/BV1D5411x76s/){ target="_blank" }
+- [2013 年 7 月 18 日任天堂迷你直面会](https://www.bilibili.com/video/BV1D5411x76s/){ target="_blank" }

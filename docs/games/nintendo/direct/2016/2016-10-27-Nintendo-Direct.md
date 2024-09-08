@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2016 年 10 月 27 日，任天堂召开怪物猎人直播会，介绍 3DS 游戏《怪物猎人 XX》的消息。
+> 2016 年 10 月 27 日，任天堂召开怪物猎人直面会，介绍 3DS 游戏《怪物猎人 XX》的消息。
 
 **日版标题**
 
@@ -29,4 +29,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 10 月 27 日怪物猎人直播会](https://www.bilibili.com/video/BV1Jk4y1z7Ua/){ target="_blank" }
+- [2016 年 10 月 27 日怪物猎人直面会](https://www.bilibili.com/video/BV1Jk4y1z7Ua/){ target="_blank" }

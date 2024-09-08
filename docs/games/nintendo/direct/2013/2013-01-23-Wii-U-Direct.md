@@ -13,7 +13,7 @@ tags:
   - 异度神剑 X
 ---
 
-> 2013 年 1 月 23 日，任天堂召开 Wii U 直播会，介绍 Wii U 游戏的消息。
+> 2013 年 1 月 23 日，任天堂召开 Wii U 直面会，介绍 Wii U 游戏的消息。
 
 **日版标题**
 
@@ -54,4 +54,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 1 月 23 日任天堂 Wii U 直播会](https://www.bilibili.com/video/BV1AJ411q78w/){ target="_blank" }
+- [2013 年 1 月 23 日任天堂 Wii U 直面会](https://www.bilibili.com/video/BV1AJ411q78w/){ target="_blank" }

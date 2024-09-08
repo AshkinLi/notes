@@ -5,7 +5,7 @@ tags:
   - Indie World
 ---
 
-> 2020 年 3 月 17 日，任天堂召开独立游戏直播会，介绍 Switch 平台独立游戏的消息。
+> 2020 年 3 月 17 日，任天堂召开独立游戏直面会，介绍 Switch 平台独立游戏的消息。
 
 **美版标题**
 
@@ -38,4 +38,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 3 月 17 日独立游戏直播会](https://www.bilibili.com/video/BV1gy4y1D7aQ/){ target="_blank" }
+- [2020 年 3 月 17 日独立游戏直面会](https://www.bilibili.com/video/BV1gy4y1D7aQ/){ target="_blank" }

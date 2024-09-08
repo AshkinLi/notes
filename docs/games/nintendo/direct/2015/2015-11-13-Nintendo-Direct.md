@@ -18,7 +18,7 @@ tags:
   - 任天堂明星大乱斗 for 3DS / Wii U
 ---
 
-> 2015 年 11 月 13 日任天堂召开直播会，介绍以 2016 年春季之前发售的 Wii U 和 3DS 游戏为中心的消息。
+> 2015 年 11 月 13 日任天堂召开直面会，介绍以 2016 年春季之前发售的 Wii U 和 3DS 游戏为中心的消息。
 
 **日版标题**
 
@@ -62,4 +62,4 @@ tags:
 
 ## 外部链接
 
-- [2015 年 11 月 13 日任天堂直播会](https://www.bilibili.com/video/BV1LJ411L7jo/){ target="_blank" }
+- [2015 年 11 月 13 日任天堂直面会](https://www.bilibili.com/video/BV1LJ411L7jo/){ target="_blank" }

@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2012 年 7 月 30 日，任天堂召开勇者斗恶龙 10 直播会，介绍 Wii 游戏《勇者斗恶龙 10》的消息。
+> 2012 年 7 月 30 日，任天堂召开勇者斗恶龙 10 直面会，介绍 Wii 游戏《勇者斗恶龙 10》的消息。
 
 **日版标题**
 
@@ -31,4 +31,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 7 月 30 日勇者斗恶龙 10 直播会](https://www.bilibili.com/video/BV1e7411m7dm/){ target="_blank" }
+- [2012 年 7 月 30 日勇者斗恶龙 10 直面会](https://www.bilibili.com/video/BV1e7411m7dm/){ target="_blank" }

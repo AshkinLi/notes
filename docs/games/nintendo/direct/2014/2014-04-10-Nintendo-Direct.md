@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2014 年 4 月 10 日，任天堂召开朋友聚会 新生活直播会，介绍 3DS 游戏《朋友聚会 新生活》的消息。
+> 2014 年 4 月 10 日，任天堂召开朋友聚会 新生活直面会，介绍 3DS 游戏《朋友聚会 新生活》的消息。
 
 **美版标题**
 
@@ -33,4 +33,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 4 月 10 日朋友聚会 新生活直播会](https://www.bilibili.com/video/BV1TK4y1t7pS/){ target="_blank" }
+- [2014 年 4 月 10 日朋友聚会 新生活直面会](https://www.bilibili.com/video/BV1TK4y1t7pS/){ target="_blank" }

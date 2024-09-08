@@ -4,7 +4,7 @@ tags:
   - 3DS
 ---
 
-> 2013 年 4 月 3 日，任天堂召开朋友聚会 新生活直播会，介绍 3DS 游戏《朋友聚会 新生活》的消息。
+> 2013 年 4 月 3 日，任天堂召开朋友聚会 新生活直面会，介绍 3DS 游戏《朋友聚会 新生活》的消息。
 
 **日版标题**
 
@@ -24,4 +24,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 4 月 3 日朋友聚会 新生活直播会](https://www.bilibili.com/video/BV1t64y1T7mY/){ target="_blank" }
+- [2013 年 4 月 3 日朋友聚会 新生活直面会](https://www.bilibili.com/video/BV1t64y1T7mY/){ target="_blank" }

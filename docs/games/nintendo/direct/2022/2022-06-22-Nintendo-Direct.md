@@ -5,7 +5,7 @@ tags:
   - 异度神剑 3
 ---
 
-> 2022 年 6 月 22 日，任天堂召开异度神剑 3 直播会，介绍 Switch 游戏《异度神剑 3》的消息。
+> 2022 年 6 月 22 日，任天堂召开异度神剑 3 直面会，介绍 Switch 游戏《异度神剑 3》的消息。
 **日版标题**
 
 :	ゼノブレイド3 Direct 2022.6.22
@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2022年6月22日异度神剑3直播会](https://www.bilibili.com/video/BV1DU4y1X7yR/){ target="_blank" }
+- [2022年6月22日异度神剑3直面会](https://www.bilibili.com/video/BV1DU4y1X7yR/){ target="_blank" }

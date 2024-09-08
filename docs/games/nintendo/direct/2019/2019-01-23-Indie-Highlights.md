@@ -5,7 +5,7 @@ tags:
   - Indie Highlights
 ---
 
-> 2019 年 1 月 23 日，任天堂召开独立游戏直播会，介绍 Switch 平台独立游戏的消息。
+> 2019 年 1 月 23 日，任天堂召开独立游戏直面会，介绍 Switch 平台独立游戏的消息。
 
 **欧版标题**
 
@@ -33,4 +33,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 1 月 23 日独立游戏直播会](https://www.bilibili.com/video/BV1Sy4y1z7fj/){ target="_blank" }
+- [2019 年 1 月 23 日独立游戏直面会](https://www.bilibili.com/video/BV1Sy4y1z7fj/){ target="_blank" }

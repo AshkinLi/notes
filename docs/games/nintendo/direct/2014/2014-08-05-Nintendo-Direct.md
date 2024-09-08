@@ -6,7 +6,7 @@ tags:
   - 塞尔达无双
 ---
 
-> 2014 年 8 月 5 日，任天堂召开塞尔达无双直播会，介绍 Wii U 游戏《塞尔达无双》的消息。
+> 2014 年 8 月 5 日，任天堂召开塞尔达无双直面会，介绍 Wii U 游戏《塞尔达无双》的消息。
 
 **日版标题**
 
@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 8 月 5 日塞尔达无双直播会](https://www.bilibili.com/video/BV1M5411W7qq/){ target="_blank" }
+- [2014 年 8 月 5 日塞尔达无双直面会](https://www.bilibili.com/video/BV1M5411W7qq/){ target="_blank" }

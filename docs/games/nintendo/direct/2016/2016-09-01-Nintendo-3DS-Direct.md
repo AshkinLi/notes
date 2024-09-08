@@ -16,7 +16,7 @@ tags:
   - 迷托邦
 ---
 
-> 2016 年 9 月 1 日，任天堂召开 3DS 直播会，介绍以 2016 年内发售的 3DS 游戏为中心的消息。
+> 2016 年 9 月 1 日，任天堂召开 3DS 直面会，介绍以 2016 年内发售的 3DS 游戏为中心的消息。
 
 **日版标题**
 
@@ -61,4 +61,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 9 月 1 日任天堂 3DS 直播会](https://www.bilibili.com/video/BV1SJ411p7Qy/){ target="_blank" }
+- [2016 年 9 月 1 日任天堂 3DS 直面会](https://www.bilibili.com/video/BV1SJ411p7Qy/){ target="_blank" }

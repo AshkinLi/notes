@@ -4,7 +4,7 @@ tags:
   - 3DS
 ---
 
-> 2014 年 7 月 11 日，任天堂召开 3DS 第三方厂商直播会，介绍第三方厂商 3DS 游戏的消息。
+> 2014 年 7 月 11 日，任天堂召开 3DS 第三方厂商直面会，介绍第三方厂商 3DS 游戏的消息。
 
 **日版标题**
 
@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 7 月 11 日任天堂 3DS 第三方厂商直播会](https://www.bilibili.com/video/BV1SJ411478g/){ target="_blank" }
+- [2014 年 7 月 11 日任天堂 3DS 第三方厂商直面会](https://www.bilibili.com/video/BV1SJ411478g/){ target="_blank" }

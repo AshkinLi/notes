@@ -8,7 +8,7 @@ tags:
   - 异度神剑 3D
 ---
 
-> 2014 年 8 月 29 日，任天堂召开 3DS 直播会，介绍 3DS 的相关消息。
+> 2014 年 8 月 29 日，任天堂召开 3DS 直面会，介绍 3DS 的相关消息。
 
 **日版标题**
 
@@ -43,4 +43,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 8 月 29 日任天堂 3DS 直播会](https://www.bilibili.com/video/BV1SJ41147tR/){ target="_blank" }
+- [2014 年 8 月 29 日任天堂 3DS 直面会](https://www.bilibili.com/video/BV1SJ41147tR/){ target="_blank" }

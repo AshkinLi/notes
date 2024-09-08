@@ -5,7 +5,7 @@ tags:
   - Indie World
 ---
 
-> 2022 年 11 月 10 日，任天堂召开独立游戏直播会，介绍 Switch 平台独立游戏的消息。
+> 2022 年 11 月 10 日，任天堂召开独立游戏直面会，介绍 Switch 平台独立游戏的消息。
 
 **日版标题**
 
@@ -50,4 +50,4 @@ tags:
 
 ## 外部链接
 
-- [2022 年 11 月 10 日独立游戏直播会](https://www.bilibili.com/video/BV1re4y117vJ/){ target="_blank" }
+- [2022 年 11 月 10 日独立游戏直面会](https://www.bilibili.com/video/BV1re4y117vJ/){ target="_blank" }

@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2014 年 10 月 8 日，任天堂召开怪物猎人 4G 直播会，介绍 3DS 游戏《怪物猎人 4G》的消息。
+> 2014 年 10 月 8 日，任天堂召开怪物猎人 4G 直面会，介绍 3DS 游戏《怪物猎人 4G》的消息。
 
 **日版标题**
 
@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 10 月 8 日怪物猎人 4G 直播会](https://www.bilibili.com/video/BV12Q4y1P786/){ target="_blank" }
+- [2014 年 10 月 8 日怪物猎人 4G 直面会](https://www.bilibili.com/video/BV12Q4y1P786/){ target="_blank" }

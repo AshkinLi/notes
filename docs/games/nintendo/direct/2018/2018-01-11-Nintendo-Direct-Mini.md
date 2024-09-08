@@ -8,7 +8,7 @@ tags:
   - 森喜刚 热带冻结
 ---
 
-> 2018 年 1 月 11 日，任天堂召开迷你直播会，介绍 Switch 游戏的消息。
+> 2018 年 1 月 11 日，任天堂召开迷你直面会，介绍 Switch 游戏的消息。
 
 **日版标题**
 
@@ -41,4 +41,4 @@ tags:
 
 ## 外部链接
 
-- [2018 年 1 月 11 日任天堂迷你直播会](https://www.bilibili.com/video/BV15i4y1L7CZ/){ target="_blank" }
+- [2018 年 1 月 11 日任天堂迷你直面会](https://www.bilibili.com/video/BV15i4y1L7CZ/){ target="_blank" }

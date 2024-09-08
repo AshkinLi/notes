@@ -6,7 +6,7 @@ tags:
   - 来吧 动物森友会 Amiibo+
 ---
 
-> 2016 年 11 月 2 日，任天堂召开动物森友会直播会，介绍 3DS 游戏《来吧 动物森友会 Amiibo+》的消息。
+> 2016 年 11 月 2 日，任天堂召开动物森友会直面会，介绍 3DS 游戏《来吧 动物森友会 Amiibo+》的消息。
 
 **日版标题**
 
@@ -37,4 +37,4 @@ tags:
 
 ## 外部链接
 
-- [2016年11月2日动物森友会直播会](https://www.bilibili.com/video/BV17E41157QA/){ target="_blank" }
+- [2016年11月2日动物森友会直面会](https://www.bilibili.com/video/BV17E41157QA/){ target="_blank" }

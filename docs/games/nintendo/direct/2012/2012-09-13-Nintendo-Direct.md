@@ -9,7 +9,7 @@ tags:
   - 蓓优妮塔 2
 ---
 
-> 2012 年 9 月 13 日，任天堂召开 Wii U 直播会，介绍 Wii U 游戏的消息。
+> 2012 年 9 月 13 日，任天堂召开 Wii U 直面会，介绍 Wii U 游戏的消息。
 
 **日版标题**
 
@@ -55,8 +55,8 @@ tags:
 
 **备注**
 
-:   日版直播会与美版直播会有较大差异。
+:   日版直面会与美版直面会有较大差异。
 
 ## 外部链接
 
-- [2012 年 9 月 13 日任天堂 Wii U 直播会](https://www.bilibili.com/video/BV1sJ411Q7Yr/){ target="_blank" }
+- [2012 年 9 月 13 日任天堂 Wii U 直面会](https://www.bilibili.com/video/BV1sJ411Q7Yr/){ target="_blank" }

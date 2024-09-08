@@ -5,7 +5,7 @@ tags:
   - Indie World
 ---
 
-> 2021 年 12 月 16 日，任天堂召开独立游戏直播会，介绍 Switch 平台独立游戏的消息。
+> 2021 年 12 月 16 日，任天堂召开独立游戏直面会，介绍 Switch 平台独立游戏的消息。
 
 **日版标题**
 
@@ -49,4 +49,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 12 月 16 日独立游戏直播会](https://www.bilibili.com/video/BV1U3411s7zt/){ target="_blank" }
+- [2021 年 12 月 16 日独立游戏直面会](https://www.bilibili.com/video/BV1U3411s7zt/){ target="_blank" }

@@ -5,7 +5,7 @@ tags:
   - Indie World
 ---
 
-> 2019 年 8 月 19 日，任天堂召开独立游戏直播会，介绍 Switch 平台独立游戏的消息。
+> 2019 年 8 月 19 日，任天堂召开独立游戏直面会，介绍 Switch 平台独立游戏的消息。
 
 **美版标题**
 
@@ -40,4 +40,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 8 月 19 日独立游戏直播会](https://www.bilibili.com/video/BV1Ev411b7tT/){ target="_blank" }
+- [2019 年 8 月 19 日独立游戏直面会](https://www.bilibili.com/video/BV1Ev411b7tT/){ target="_blank" }

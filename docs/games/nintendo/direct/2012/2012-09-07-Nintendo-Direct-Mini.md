@@ -5,7 +5,7 @@ tags:
   - Single Game Direct
 ---
 
-> 2012 年 9 月 7 日，任天堂召开迷你直播会，介绍 3DS 游戏《突破极限脑的 5 分钟魔鬼锻炼》的消息。
+> 2012 年 9 月 7 日，任天堂召开迷你直面会，介绍 3DS 游戏《突破极限脑的 5 分钟魔鬼锻炼》的消息。
 
 **日版标题**
 
@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 9 月 7 日任天堂迷你直播会：突破极限脑的 5 分钟魔鬼锻炼](https://www.bilibili.com/video/BV1hp4y117tY/){ target="_blank" }
+- [2012 年 9 月 7 日任天堂迷你直面会：突破极限脑的 5 分钟魔鬼锻炼](https://www.bilibili.com/video/BV1hp4y117tY/){ target="_blank" }

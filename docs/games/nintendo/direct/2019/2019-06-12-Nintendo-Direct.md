@@ -14,7 +14,7 @@ tags:
   - 塞尔达传说 王国之泪
 ---
 
-> 2019 年 6 月 12 日，任天堂召开 E3 直播会，介绍 2019 年发售的 Switch 游戏。
+> 2019 年 6 月 12 日，任天堂召开 E3 直面会，介绍 2019 年发售的 Switch 游戏。
 
 **日版标题**
 
@@ -69,4 +69,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 6 月 12 日任天堂 E3 直播会](https://www.bilibili.com/video/BV1z7411p7vS/){ target="_blank" }
+- [2019 年 6 月 12 日任天堂 E3 直面会](https://www.bilibili.com/video/BV1z7411p7vS/){ target="_blank" }

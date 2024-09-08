@@ -7,7 +7,7 @@ tags:
   - Wii Sports Club
 ---
 
-> 2013 年 9 月 18 日，任天堂召开 Wii Fit U 直播会，介绍 Wii U 游戏《Wii Fit U》的消息。
+> 2013 年 9 月 18 日，任天堂召开 Wii Fit U 直面会，介绍 Wii U 游戏《Wii Fit U》的消息。
 
 **日版标题**
 
@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 9 月 18 日 Wii Fit U 直播会](https://www.bilibili.com/video/BV1pt4y117mS/){ target="_blank" }
+- [2013 年 9 月 18 日 Wii Fit U 直面会](https://www.bilibili.com/video/BV1pt4y117mS/){ target="_blank" }

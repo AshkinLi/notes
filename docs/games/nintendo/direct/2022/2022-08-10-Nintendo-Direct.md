@@ -5,7 +5,7 @@ tags:
   - 斯普拉遁 3
 ---
 
-> 2022 年 8 月 10 日，任天堂召开斯普拉遁 3 直播会，介绍 Switch 游戏《斯普拉遁 3》的消息。
+> 2022 年 8 月 10 日，任天堂召开斯普拉遁 3 直面会，介绍 Switch 游戏《斯普拉遁 3》的消息。
 
 **日版标题**
 
@@ -35,4 +35,4 @@ tags:
 
 ## 外部链接
 
-- [2022 年 8 月 10 日斯普拉遁 3 直播会](https://www.bilibili.com/video/BV1uT411j7Pe/){ target="_blank" }
+- [2022 年 8 月 10 日斯普拉遁 3 直面会](https://www.bilibili.com/video/BV1uT411j7Pe/){ target="_blank" }

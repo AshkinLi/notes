@@ -14,7 +14,7 @@ tags:
   - 任天堂明星大乱斗 特别版
 ---
 
-> 2018 年 3 月 9 日，任天堂召开直播会，介绍《马力欧网球 王牌》等 Switch 和 3DS 游戏的相关消息。
+> 2018 年 3 月 9 日，任天堂召开直面会，介绍《马力欧网球 王牌》等 Switch 和 3DS 游戏的相关消息。
 
 **日版标题**
 
@@ -66,4 +66,4 @@ tags:
 
 ## 外部链接
 
-- [2018 年 3 月 9 日任天堂直播会](https://www.bilibili.com/video/BV1m7411p7hW/){ target="_blank" }
+- [2018 年 3 月 9 日任天堂直面会](https://www.bilibili.com/video/BV1m7411p7hW/){ target="_blank" }

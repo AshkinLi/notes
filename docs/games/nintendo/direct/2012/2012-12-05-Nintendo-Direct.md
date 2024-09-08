@@ -8,7 +8,7 @@ tags:
   - 任天堂 TVii
 ---
 
-> 2012 年12月5日，任天堂召开直播会，介绍 Wii U 软件的消息。
+> 2012 年12月5日，任天堂召开直面会，介绍 Wii U 软件的消息。
 
 **日版标题**
 
@@ -47,8 +47,8 @@ tags:
 
 **备注**
 
-:   日版直播会与美版直播会有较大差异。
+:   日版直面会与美版直面会有较大差异。
 
 ## 外部链接
 
-- [2012 年 12 月 5 日任天堂直播会](https://www.bilibili.com/video/BV1rJ411B7hb/){ target="_blank" }
+- [2012 年 12 月 5 日任天堂直面会](https://www.bilibili.com/video/BV1rJ411B7hb/){ target="_blank" }

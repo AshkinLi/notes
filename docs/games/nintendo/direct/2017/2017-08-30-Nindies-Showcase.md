@@ -5,7 +5,7 @@ tags:
   - Nindies Showcase
 ---
 
-> 2017 年 8 月 30 日，任天堂召开独立游戏直播会，介绍 Switch 平台独立游戏的消息。
+> 2017 年 8 月 30 日，任天堂召开独立游戏直面会，介绍 Switch 平台独立游戏的消息。
 
 **美版标题**
 
@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 8 月 30 日独立游戏直播会](https://www.bilibili.com/video/BV1HV411y7fp/){ target="_blank" }
+- [2017 年 8 月 30 日独立游戏直面会](https://www.bilibili.com/video/BV1HV411y7fp/){ target="_blank" }

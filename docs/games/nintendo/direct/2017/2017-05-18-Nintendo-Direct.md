@@ -6,7 +6,7 @@ tags:
   - 斯普拉遁 2
 ---
 
-> 2017 年 5 月 18 日，任天堂召开 ARMS 直播会，介绍 Switch 游戏《ARMS》的消息。
+> 2017 年 5 月 18 日，任天堂召开 ARMS 直面会，介绍 Switch 游戏《ARMS》的消息。
 
 **日版标题**
 
@@ -28,8 +28,8 @@ tags:
 
 **备注**
 
-:   在 ARMS 直播会结束后，播出了《喷射战士 2》英雄模式的宣传影片。
+:   在 ARMS 直面会结束后，播出了《喷射战士 2》英雄模式的宣传影片。
 
 ## 外部链接
 
-- [2017 年 5 月 18 日 ARMS 直播会](https://www.bilibili.com/video/BV1ja4y1L78A/){ target="_blank" }
+- [2017 年 5 月 18 日 ARMS 直面会](https://www.bilibili.com/video/BV1ja4y1L78A/){ target="_blank" }

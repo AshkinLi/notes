@@ -9,7 +9,7 @@ tags:
   - 新超级马力欧兄弟 U
 ---
 
-> 2012 年 11 月 7 日，任天堂召开 Wii U 直播会，介绍 Wii U 的本体机能。
+> 2012 年 11 月 7 日，任天堂召开 Wii U 直面会，介绍 Wii U 的本体机能。
 
 **日版标题**
 
@@ -39,8 +39,8 @@ tags:
 
 **备注**
 
-:   日版直播会结束后，有开发者介绍《新超级马力欧兄弟U》。
+:   日版直面会结束后，有开发者介绍《新超级马力欧兄弟U》。
 
 ## 外部链接
 
-- [2012 年 11 月 7 日任天堂 Wii U 直播会](https://www.bilibili.com/video/BV1DJ411i7CZ/){ target="_blank" }
+- [2012 年 11 月 7 日任天堂 Wii U 直面会](https://www.bilibili.com/video/BV1DJ411i7CZ/){ target="_blank" }

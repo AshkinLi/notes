@@ -4,7 +4,7 @@ tags:
   - 任天堂博物馆
 ---
 
-> 2024 年 8 月 20 日，任天堂召开任天堂博物馆直播会，介绍任天堂博物馆的消息。
+> 2024 年 8 月 20 日，任天堂召开任天堂博物馆直面会，介绍任天堂博物馆的消息。
 
 **日版标题**
 
@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2024 年 8 月 20 日任天堂博物馆直播会](https://www.bilibili.com/video/BV11hWsewE8f/){ target="_blank" }
+- [2024 年 8 月 20 日任天堂博物馆直面会](https://www.bilibili.com/video/BV11hWsewE8f/){ target="_blank" }

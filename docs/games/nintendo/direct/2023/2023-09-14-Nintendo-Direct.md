@@ -13,7 +13,7 @@ tags:
   - 纸片马力欧 RPG
 ---
 
-> 2023 年 9 月 14 日，任天堂召开直播会，以 2023 年冬天发售的游戏为中心，介绍 Switch 游戏的相关消息。
+> 2023 年 9 月 14 日，任天堂召开直面会，以 2023 年冬天发售的游戏为中心，介绍 Switch 游戏的相关消息。
 
 **日版标题**
 
@@ -63,4 +63,4 @@ tags:
 
 ## 外部链接
 
-- [2023 年 9 月 14 日任天堂直播会](https://www.bilibili.com/video/BV1iu4y1r764/){ target="_blank" }
+- [2023 年 9 月 14 日任天堂直面会](https://www.bilibili.com/video/BV1iu4y1r764/){ target="_blank" }

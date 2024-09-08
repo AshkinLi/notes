@@ -5,7 +5,7 @@ tags:
   - 皮克敏 3
 ---
 
-> 2013 年 6 月 26 日，任天堂召开皮克敏 3 直播会，介绍 Wii U 游戏《皮克敏 3》的消息。
+> 2013 年 6 月 26 日，任天堂召开皮克敏 3 直面会，介绍 Wii U 游戏《皮克敏 3》的消息。
 
 **日版标题**
 
@@ -26,4 +26,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 6 月 26 日皮克敏 3 直播会](https://www.bilibili.com/video/BV1aK4y1b7Pa/){ target="_blank" }
+- [2013 年 6 月 26 日皮克敏 3 直面会](https://www.bilibili.com/video/BV1aK4y1b7Pa/){ target="_blank" }

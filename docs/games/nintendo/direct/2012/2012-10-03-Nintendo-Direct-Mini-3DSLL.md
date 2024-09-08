@@ -4,7 +4,7 @@ tags:
   - 3DS LL
 ---
 
-> 2012 年 10 月 3 日，任天堂召开迷你直播会，介绍任天堂 3DS LL 的消息。
+> 2012 年 10 月 3 日，任天堂召开迷你直面会，介绍任天堂 3DS LL 的消息。
 
 **日版标题**
 
@@ -24,5 +24,5 @@ tags:
 
 ## 外部链接
 
-- [2012 年 10 月 3 日任天堂迷你直播会：任天堂 3DS LL](https://www.bilibili.com/video/BV1gC4y1s7wE/){ target="_blank" }
+- [2012 年 10 月 3 日任天堂迷你直面会：任天堂 3DS LL](https://www.bilibili.com/video/BV1gC4y1s7wE/){ target="_blank" }
 

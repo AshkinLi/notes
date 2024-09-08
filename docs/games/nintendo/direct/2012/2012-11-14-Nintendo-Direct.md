@@ -4,7 +4,7 @@ tags:
   - Wii U
 ---
 
-> 2012 年 11 月 14 日，任天堂召开 Wii U 直播会，对 11 月 7 日直播会的情报进行补充。
+> 2012 年 11 月 14 日，任天堂召开 Wii U 直面会，对 11 月 7 日直面会的情报进行补充。
 
 **日版标题**
 
@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 11 月 14 日任天堂 WiiU 直播会](https://www.bilibili.com/video/BV1DJ411i7Q4/){ target="_blank" }
+- [2012 年 11 月 14 日任天堂 WiiU 直面会](https://www.bilibili.com/video/BV1DJ411i7Q4/){ target="_blank" }

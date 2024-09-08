@@ -4,7 +4,7 @@ tags:
   - 超级马力欧兄弟大电影
 ---
 
-> 2022 年 10 月 7 日，任天堂召开超级马力欧兄弟大电影直播会，介绍电影《超级马力欧兄弟大电影》的消息。
+> 2022 年 10 月 7 日，任天堂召开超级马力欧兄弟大电影直面会，介绍电影《超级马力欧兄弟大电影》的消息。
 
 **日版标题**
 
@@ -36,5 +36,5 @@ tags:
 
 ## 外部链接
 
-- [2022 年 10 月 7 日超级马力欧兄弟大电影直播会](https://www.bilibili.com/video/BV1bP411J7Kg/){ target="_blank" }
+- [2022 年 10 月 7 日超级马力欧兄弟大电影直面会](https://www.bilibili.com/video/BV1bP411J7Kg/){ target="_blank" }
 - [制片商官网](https://www.illuminationstudiosparis.com/portfolio/mario/){ target="_blank" } (英文)

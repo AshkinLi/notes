@@ -9,7 +9,7 @@ tags:
   - 斯普拉遁 2
 ---
 
-> 2017 年 4 月 13 日，任天堂召开直播会，以《喷射战士 2》《ARMS》为中心，介绍 Switch 和 3DS 的相关消息。
+> 2017 年 4 月 13 日，任天堂召开直面会，以《喷射战士 2》《ARMS》为中心，介绍 Switch 和 3DS 的相关消息。
 
 **日版标题**
 
@@ -53,4 +53,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 4 月 13 日任天堂直播会](https://www.bilibili.com/video/BV1C7411q7rD/){ target="_blank" }
+- [2017 年 4 月 13 日任天堂直面会](https://www.bilibili.com/video/BV1C7411q7rD/){ target="_blank" }
