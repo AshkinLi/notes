@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
 set -e
 
-mkdocs serve
+root=$(cd "$(dirname $0)"/..;pwd)
+
+if [ ! -d "$root/venv/" ]; then
+    source $root/bin/install
+fi
+
+"$root/venv/bin/mkdocs" serve

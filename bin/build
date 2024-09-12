@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
 set -e
 
-mkdocs build
+root=$(cd "$(dirname $0)"/..;pwd)
+
+if [ ! -d "$root/venv/" ]; then
+    source $root/bin/install
+fi
+
+"$root/venv/bin/mkdocs" build
