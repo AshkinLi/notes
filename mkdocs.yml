@@ -47,7 +47,7 @@ theme:
 
 # Plugins
 plugins:
-  - blog
+  # - blog
   # - git-committers:
   #     repository: AshkinLi/notes
   #     branch: source
