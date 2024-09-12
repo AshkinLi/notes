@@ -1,6 +1,5 @@
-.cache/
-
 # Mkdocs
+.cache/
 site/
 
 # Environments
