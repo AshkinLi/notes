@@ -6,6 +6,8 @@ tags:
   - 超级马力欧 3D 乐园
 ---
 
+<div class="annotate" markdown>
+
 > 2011 年 10 月 21 日，任天堂召开第一次直面会，由岩田聪社长主持，介绍 2011 年 9 月发布会未公布的 3DS 的最新消息。
 
 **日版标题**
@@ -36,11 +38,11 @@ tags:
 **主要内容**
 
 :	1. 3DS 系统更新
-	2. 马力欧卡丁车 7
+	2. 马力欧卡丁车 7 (1)
 	3. 王国之心 3D
 	4. 牧场物语 起源的大地
 	5. 符文工厂 4
-	6. 超级马力欧 3D 乐园
+	6. 超级马力欧 3D 乐园 (2)
 	7. 怪物猎人 3G
 
 **备注**
@@ -50,3 +52,8 @@ tags:
 ## 外部链接
 
 - [2011 年 10 月 21 日任天堂直面会](https://www.bilibili.com/video/BV1oE41167KD/){ target="_blank" }
+
+</div>
+
+1. 官网（日）：[马力欧卡丁车 7](https://www.nintendo.co.jp/3ds/amkj/index.html)
+2. 官网（日）：[超级马力欧 3D 乐园（日）](https://www.nintendo.co.jp/3ds/arej/index.html)
