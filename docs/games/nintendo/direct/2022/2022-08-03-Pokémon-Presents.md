@@ -53,4 +53,4 @@ tags:
 
 ## 外部链接
 
-- [2022 年 8 月 3 日宝可梦新作发表会](https://www.bilibili.com/video/BV1Xa411T7oh/){ target="_blank" }
+- [2022 年 8 月 3 日宝可梦新作发表会](https://www.bilibili.com/video/BV1Xa411T7oh/)

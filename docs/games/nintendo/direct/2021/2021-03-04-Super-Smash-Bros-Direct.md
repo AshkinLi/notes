@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 3 月 4 日任天堂明星大乱斗直播节目：焰 / 光的使用方法](https://www.bilibili.com/video/BV1Bv41137Wu/){ target="_blank" }
+- [2021 年 3 月 4 日任天堂明星大乱斗直播节目：焰 / 光的使用方法](https://www.bilibili.com/video/BV1Bv41137Wu/)

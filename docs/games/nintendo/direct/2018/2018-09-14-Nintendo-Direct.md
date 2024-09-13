@@ -73,4 +73,4 @@ tags:
 
 ## 外部链接
 
-- [2018 年 9 月 14 日任天堂直面会](https://www.bilibili.com/video/BV1B7411p7qp/){ target="_blank" }
+- [2018 年 9 月 14 日任天堂直面会](https://www.bilibili.com/video/BV1B7411p7qp/)

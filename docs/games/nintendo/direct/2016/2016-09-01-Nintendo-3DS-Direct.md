@@ -61,4 +61,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 9 月 1 日任天堂 3DS 直面会](https://www.bilibili.com/video/BV1SJ411p7Qy/){ target="_blank" }
+- [2016 年 9 月 1 日任天堂 3DS 直面会](https://www.bilibili.com/video/BV1SJ411p7Qy/)

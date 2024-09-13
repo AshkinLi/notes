@@ -31,4 +31,4 @@ tags:
 
 ## 外部链接
 
-- [2013年8月9日神奇101直面会](https://www.bilibili.com/video/BV1cz411q7tQ/){ target="_blank" }
+- [2013年8月9日神奇101直面会](https://www.bilibili.com/video/BV1cz411q7tQ/)

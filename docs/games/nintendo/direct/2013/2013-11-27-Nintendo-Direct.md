@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 11 月 27 日 3DS 导游 卢浮宫美术馆直面会](https://www.bilibili.com/video/BV1iQ4y1A7Nw/){ target="_blank" }
+- [2013 年 11 月 27 日 3DS 导游 卢浮宫美术馆直面会](https://www.bilibili.com/video/BV1iQ4y1A7Nw/)

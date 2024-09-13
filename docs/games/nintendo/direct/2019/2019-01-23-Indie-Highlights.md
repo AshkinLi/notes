@@ -33,4 +33,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 1 月 23 日独立游戏直面会](https://www.bilibili.com/video/BV1Sy4y1z7fj/){ target="_blank" }
+- [2019 年 1 月 23 日独立游戏直面会](https://www.bilibili.com/video/BV1Sy4y1z7fj/)

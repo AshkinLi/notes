@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 7 月 3 日任天堂迷你直面会：WiiU / 任天堂 3DS 下载软件](https://www.bilibili.com/video/BV1aK4y1b7Pa/){ target="_blank" }
+- [2013 年 7 月 3 日任天堂迷你直面会：WiiU / 任天堂 3DS 下载软件](https://www.bilibili.com/video/BV1aK4y1b7Pa/)

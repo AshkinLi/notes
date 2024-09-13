@@ -33,4 +33,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 9 月 5 日蓓优妮塔 2 直面会](https://www.bilibili.com/video/BV1SK4y1x7y5/){ target="_blank" }
+- [2014 年 9 月 5 日蓓优妮塔 2 直面会](https://www.bilibili.com/video/BV1SK4y1x7y5/)

@@ -42,4 +42,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 9 月 17 日任天堂迷你直面会：第三方厂商](https://www.bilibili.com/video/BV1cz4y1S75q/){ target="_blank" }
+- [2020 年 9 月 17 日任天堂迷你直面会：第三方厂商](https://www.bilibili.com/video/BV1cz4y1S75q/)

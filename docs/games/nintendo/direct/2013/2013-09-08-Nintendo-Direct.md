@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 9 月 8 日怪物猎人 4 直面会](https://www.bilibili.com/video/BV11Q4y1N7oM/){ target="_blank" }
+- [2013 年 9 月 8 日怪物猎人 4 直面会](https://www.bilibili.com/video/BV11Q4y1N7oM/)

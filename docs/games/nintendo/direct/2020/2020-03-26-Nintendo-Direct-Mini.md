@@ -48,4 +48,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 3 月 26 日任天堂迷你直面会](https://www.bilibili.com/video/BV1ja411c7VX/){ target="_blank" }
+- [2020 年 3 月 26 日任天堂迷你直面会](https://www.bilibili.com/video/BV1ja411c7VX/)

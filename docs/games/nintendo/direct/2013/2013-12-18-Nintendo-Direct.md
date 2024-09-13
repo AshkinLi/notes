@@ -59,4 +59,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 12 月 18 日任天堂直面会](https://www.bilibili.com/video/BV1FJ41167nf/){ target="_blank" }
+- [2013 年 12 月 18 日任天堂直面会](https://www.bilibili.com/video/BV1FJ41167nf/)

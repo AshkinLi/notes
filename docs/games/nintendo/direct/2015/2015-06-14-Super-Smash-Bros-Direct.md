@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2015 年 6 月 14 日任天堂明星大乱斗 6 月新要素](https://www.bilibili.com/video/BV1DJ411p7xM/){ target="_blank" }
+- [2015 年 6 月 14 日任天堂明星大乱斗 6 月新要素](https://www.bilibili.com/video/BV1DJ411p7xM/)

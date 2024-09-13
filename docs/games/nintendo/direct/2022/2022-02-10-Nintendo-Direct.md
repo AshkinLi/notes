@@ -45,4 +45,4 @@ tags:
 
 ## 外部链接
 
-- [2022年2月10日任天堂直面会](https://www.bilibili.com/video/BV175411o7Wm/){ target="_blank" }
+- [2022年2月10日任天堂直面会](https://www.bilibili.com/video/BV175411o7Wm/)

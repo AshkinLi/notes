@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 10 月 25 日动物森友会直面会](https://www.bilibili.com/video/BV17E41157Y1/){ target="_blank" }
+- [2017 年 10 月 25 日动物森友会直面会](https://www.bilibili.com/video/BV17E41157Y1/)

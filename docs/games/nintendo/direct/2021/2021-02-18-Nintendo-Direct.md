@@ -59,4 +59,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 2 月 18 日任天堂直面会](https://www.bilibili.com/video/BV1Dp4y1p7h7/){ target="_blank" }
+- [2021 年 2 月 18 日任天堂直面会](https://www.bilibili.com/video/BV1Dp4y1p7h7/)

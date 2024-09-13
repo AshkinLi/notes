@@ -35,4 +35,4 @@ tags:
 
 ## 外部链接
 
-- [2021年6月28日任天堂明星大乱斗直播节目：一八的使用方法](https://www.bilibili.com/video/BV1PP4y1a7M8/){ target="_blank" }
+- [2021年6月28日任天堂明星大乱斗直播节目：一八的使用方法](https://www.bilibili.com/video/BV1PP4y1a7M8/)

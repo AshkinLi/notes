@@ -49,4 +49,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 12 月 16 日独立游戏直面会](https://www.bilibili.com/video/BV1U3411s7zt/){ target="_blank" }
+- [2021 年 12 月 16 日独立游戏直面会](https://www.bilibili.com/video/BV1U3411s7zt/)

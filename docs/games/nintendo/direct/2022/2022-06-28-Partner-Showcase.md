@@ -46,4 +46,4 @@ tags:
 
 ## 外部链接
 
-- [2022 年 6 月 28 日任天堂迷你直面会：第三方厂商](https://www.bilibili.com/video/BV1XB4y1v7Wg/){ target="_blank" }
+- [2022 年 6 月 28 日任天堂迷你直面会：第三方厂商](https://www.bilibili.com/video/BV1XB4y1v7Wg/)

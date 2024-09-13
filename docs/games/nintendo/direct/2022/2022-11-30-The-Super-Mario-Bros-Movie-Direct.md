@@ -36,5 +36,5 @@ tags:
 
 ## 外部链接
 
-- [2022 年 11 月 30 日超级马力欧兄弟大电影直面会](https://www.bilibili.com/video/BV1ue4y137fR/){ target="_blank" }
-- [制片商官网](https://www.illuminationstudiosparis.com/portfolio/mario/){ target="_blank" } (英文)
+- [2022 年 11 月 30 日超级马力欧兄弟大电影直面会](https://www.bilibili.com/video/BV1ue4y137fR/)
+- [制片商官网](https://www.illuminationstudiosparis.com/portfolio/mario/) (英文)

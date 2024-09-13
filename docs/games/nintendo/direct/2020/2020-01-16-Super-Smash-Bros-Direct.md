@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 1 月 16 日任天堂明星大乱斗直播节目：贝雷特/贝雷丝的使用方法](https://www.bilibili.com/video/BV1s44y147rr/){ target="_blank" }
+- [2020 年 1 月 16 日任天堂明星大乱斗直播节目：贝雷特/贝雷丝的使用方法](https://www.bilibili.com/video/BV1s44y147rr/)

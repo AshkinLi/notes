@@ -20,4 +20,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 6 月 22 日卡片召唤师 反叛直面会：第 2 弹 新能力篇](https://www.bilibili.com/video/BV1ED4y1Q7uz/){ target="_blank" }
+- [2016 年 6 月 22 日卡片召唤师 反叛直面会：第 2 弹 新能力篇](https://www.bilibili.com/video/BV1ED4y1Q7uz/)

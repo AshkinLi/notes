@@ -50,4 +50,4 @@ tags:
 
 ## 外部链接
 
-- [2022 年 11 月 10 日独立游戏直面会](https://www.bilibili.com/video/BV1re4y117vJ/){ target="_blank" }
+- [2022 年 11 月 10 日独立游戏直面会](https://www.bilibili.com/video/BV1re4y117vJ/)

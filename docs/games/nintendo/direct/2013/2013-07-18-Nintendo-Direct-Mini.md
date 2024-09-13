@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 7 月 18 日任天堂迷你直面会](https://www.bilibili.com/video/BV1D5411x76s/){ target="_blank" }
+- [2013 年 7 月 18 日任天堂迷你直面会](https://www.bilibili.com/video/BV1D5411x76s/)

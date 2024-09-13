@@ -26,4 +26,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 8 月 19 日国行健身环大冒险发布会](https://www.bilibili.com/video/BV1oz4y1S7Uq/){ target="_blank" }
+- [2020 年 8 月 19 日国行健身环大冒险发布会](https://www.bilibili.com/video/BV1oz4y1S7Uq/)

@@ -29,4 +29,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 10 月 27 日怪物猎人直面会](https://www.bilibili.com/video/BV1Jk4y1z7Ua/){ target="_blank" }
+- [2016 年 10 月 27 日怪物猎人直面会](https://www.bilibili.com/video/BV1Jk4y1z7Ua/)

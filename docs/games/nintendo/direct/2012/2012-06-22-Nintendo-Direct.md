@@ -58,4 +58,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 6 月 22 日任天堂直面会](https://www.bilibili.com/video/BV1FJ411R7sc/){ target="_blank" }
+- [2012 年 6 月 22 日任天堂直面会](https://www.bilibili.com/video/BV1FJ411R7sc/)

@@ -29,4 +29,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 4 月 17 日任天堂明星大乱斗特别版 Ver.3.0 更新介绍视频](https://www.bilibili.com/video/BV1d341127HL/){ target="_blank" }
+- [2019 年 4 月 17 日任天堂明星大乱斗特别版 Ver.3.0 更新介绍视频](https://www.bilibili.com/video/BV1d341127HL/)

@@ -35,4 +35,4 @@ tags:
 
 ## 外部链接
 
-- [2022 年 8 月 10 日斯普拉遁 3 直面会](https://www.bilibili.com/video/BV1uT411j7Pe/){ target="_blank" }
+- [2022 年 8 月 10 日斯普拉遁 3 直面会](https://www.bilibili.com/video/BV1uT411j7Pe/)

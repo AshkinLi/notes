@@ -28,4 +28,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 7 月 24 日任天堂迷你直面会：移动记事本 3D](https://www.bilibili.com/video/BV19g4y1z74S/){ target="_blank" }
+- [2013 年 7 月 24 日任天堂迷你直面会：移动记事本 3D](https://www.bilibili.com/video/BV19g4y1z74S/)

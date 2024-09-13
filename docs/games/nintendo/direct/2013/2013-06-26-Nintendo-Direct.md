@@ -26,4 +26,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 6 月 26 日皮克敏 3 直面会](https://www.bilibili.com/video/BV1aK4y1b7Pa/){ target="_blank" }
+- [2013 年 6 月 26 日皮克敏 3 直面会](https://www.bilibili.com/video/BV1aK4y1b7Pa/)

@@ -41,4 +41,4 @@ tags:
 
 ## 外部链接
 
-- [2018 年 1 月 11 日任天堂迷你直面会](https://www.bilibili.com/video/BV15i4y1L7CZ/){ target="_blank" }
+- [2018 年 1 月 11 日任天堂迷你直面会](https://www.bilibili.com/video/BV15i4y1L7CZ/)

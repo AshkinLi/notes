@@ -24,4 +24,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 4 月 3 日朋友聚会 新生活直面会](https://www.bilibili.com/video/BV1t64y1T7mY/){ target="_blank" }
+- [2013 年 4 月 3 日朋友聚会 新生活直面会](https://www.bilibili.com/video/BV1t64y1T7mY/)

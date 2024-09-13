@@ -59,6 +59,7 @@ plugins:
   - awesome-pages
   - meta
   - offline
+  - open-in-new-tab
   - optimize
   - search:
       lang: 

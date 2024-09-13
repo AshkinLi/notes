@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 8 月 30 日独立游戏直面会](https://www.bilibili.com/video/BV1HV411y7fp/){ target="_blank" }
+- [2017 年 8 月 30 日独立游戏直面会](https://www.bilibili.com/video/BV1HV411y7fp/)

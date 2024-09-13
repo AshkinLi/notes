@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 9 月 18 日 Wii Fit U 直面会](https://www.bilibili.com/video/BV1pt4y117mS/){ target="_blank" }
+- [2013 年 9 月 18 日 Wii Fit U 直面会](https://www.bilibili.com/video/BV1pt4y117mS/)

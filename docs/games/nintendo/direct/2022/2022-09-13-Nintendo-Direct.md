@@ -64,4 +64,4 @@ tags:
 
 ## 外部链接
 
-- [2022 年 9 月 13 日任天堂直面会](https://www.bilibili.com/video/BV1SD4y1q7rH/){ target="_blank" }
+- [2022 年 9 月 13 日任天堂直面会](https://www.bilibili.com/video/BV1SD4y1q7rH/)

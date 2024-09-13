@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2015 年 12 月 16 日任天堂明星大乱斗最后的特别节目](https://www.bilibili.com/video/BV1SJ411p7zm/){ target="_blank" }
+- [2015 年 12 月 16 日任天堂明星大乱斗最后的特别节目](https://www.bilibili.com/video/BV1SJ411p7zm/)

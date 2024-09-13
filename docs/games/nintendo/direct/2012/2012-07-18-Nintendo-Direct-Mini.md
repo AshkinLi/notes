@@ -33,4 +33,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 7 月 18 日任天堂迷你直面会：突破极限脑的5分钟魔鬼锻炼](https://www.bilibili.com/video/BV1v7411m7xX/){ target="_blank" }
+- [2012 年 7 月 18 日任天堂迷你直面会：突破极限脑的5分钟魔鬼锻炼](https://www.bilibili.com/video/BV1v7411m7xX/)

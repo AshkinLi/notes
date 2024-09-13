@@ -31,4 +31,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 5 月 31 日怪物猎人 4 和逆转裁判 5 直面会](https://www.bilibili.com/video/BV1jk4y1R7mz/){ target="_blank" }
+- [2013 年 5 月 31 日怪物猎人 4 和逆转裁判 5 直面会](https://www.bilibili.com/video/BV1jk4y1R7mz/)

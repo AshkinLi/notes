@@ -64,4 +64,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 3 月 4 日任天堂直面会](https://www.bilibili.com/video/BV1SJ411p7kA/){ target="_blank" }
+- [2016 年 3 月 4 日任天堂直面会](https://www.bilibili.com/video/BV1SJ411p7kA/)

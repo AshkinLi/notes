@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 10 月 29 日任天堂迷你直面会：大合奏 乐团兄弟 P](https://www.bilibili.com/video/BV1Fz411q7RB/){ target="_blank" }
+- [2013 年 10 月 29 日任天堂迷你直面会：大合奏 乐团兄弟 P](https://www.bilibili.com/video/BV1Fz411q7RB/)

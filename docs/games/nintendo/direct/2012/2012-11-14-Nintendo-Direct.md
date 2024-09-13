@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 11 月 14 日任天堂 WiiU 直面会](https://www.bilibili.com/video/BV1DJ411i7Q4/){ target="_blank" }
+- [2012 年 11 月 14 日任天堂 WiiU 直面会](https://www.bilibili.com/video/BV1DJ411i7Q4/)

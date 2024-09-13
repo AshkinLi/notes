@@ -31,4 +31,4 @@ tags:
 
 ## 外部链接
 
-- [2023 年 8 月 31 日超级马力欧兄弟惊奇直面会](https://www.bilibili.com/video/BV1rP411h7Jy/){ target="_blank" }
+- [2023 年 8 月 31 日超级马力欧兄弟惊奇直面会](https://www.bilibili.com/video/BV1rP411h7Jy/)

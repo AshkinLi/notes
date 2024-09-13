@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 9 月 17 日怪物猎人直面会](https://www.bilibili.com/video/BV1rr4y1T7hU/){ target="_blank" }
+- [2020 年 9 月 17 日怪物猎人直面会](https://www.bilibili.com/video/BV1rr4y1T7hU/)

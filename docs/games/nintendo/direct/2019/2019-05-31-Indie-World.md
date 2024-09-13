@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 5 月 31 日独立游戏直面会](https://www.bilibili.com/video/BV14K411371r/){ target="_blank" }
+- [2019 年 5 月 31 日独立游戏直面会](https://www.bilibili.com/video/BV14K411371r/)

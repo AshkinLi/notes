@@ -72,4 +72,4 @@ tags:
 
 ## 外部链接
 
-- [2023 年 8 月 8 日宝可梦新作发表会](https://www.bilibili.com/video/BV1Nj41167nz/){ target="_blank" }
+- [2023 年 8 月 8 日宝可梦新作发表会](https://www.bilibili.com/video/BV1Nj41167nz/)

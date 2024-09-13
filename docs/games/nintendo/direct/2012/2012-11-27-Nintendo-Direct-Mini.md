@@ -32,4 +32,4 @@ tags:
 
 ## 外部链接
 
-- [2012年11月27日任天堂迷你直面会：新超级马力欧兄弟2](https://www.bilibili.com/video/BV1wk4y1o75U/){ target="_blank" }
+- [2012年11月27日任天堂迷你直面会：新超级马力欧兄弟2](https://www.bilibili.com/video/BV1wk4y1o75U/)

@@ -26,5 +26,5 @@ tags:
 
 ## 外部链接
 
-- [2012 年 10 月 3 日任天堂迷你直面会：任天堂e商店](https://www.bilibili.com/video/BV1y541147YM/){ target="_blank" }
+- [2012 年 10 月 3 日任天堂迷你直面会：任天堂e商店](https://www.bilibili.com/video/BV1y541147YM/)
 

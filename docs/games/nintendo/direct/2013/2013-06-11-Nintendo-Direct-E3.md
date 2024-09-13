@@ -63,4 +63,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 6 月 11 日任天堂 E3 直面会](https://www.bilibili.com/video/BV11J411k7ej/){ target="_blank" }
+- [2013 年 6 月 11 日任天堂 E3 直面会](https://www.bilibili.com/video/BV11J411k7ej/)

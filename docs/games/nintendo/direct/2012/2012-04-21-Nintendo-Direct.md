@@ -42,4 +42,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 4 月 21 日任天堂直面会](https://www.bilibili.com/video/BV1AE41117XR/){ target="_blank" }
+- [2012 年 4 月 21 日任天堂直面会](https://www.bilibili.com/video/BV1AE41117XR/)

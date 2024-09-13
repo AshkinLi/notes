@@ -48,4 +48,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 12 月 16 日独立游戏直面会](https://www.bilibili.com/video/BV1Mv411s7zW/){ target="_blank" }
+- [2020 年 12 月 16 日独立游戏直面会](https://www.bilibili.com/video/BV1Mv411s7zW/)

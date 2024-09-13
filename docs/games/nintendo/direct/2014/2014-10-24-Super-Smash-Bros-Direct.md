@@ -32,4 +32,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 10 月 24 日任天堂明星大乱斗 for Wii U 厉害的 50 个理由](https://www.bilibili.com/video/BV1DJ411p7bQ/){ target="_blank" }
+- [2014 年 10 月 24 日任天堂明星大乱斗 for Wii U 厉害的 50 个理由](https://www.bilibili.com/video/BV1DJ411p7bQ/)

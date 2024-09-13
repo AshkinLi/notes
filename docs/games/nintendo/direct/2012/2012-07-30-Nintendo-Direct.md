@@ -31,4 +31,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 7 月 30 日勇者斗恶龙 10 直面会](https://www.bilibili.com/video/BV1e7411m7dm/){ target="_blank" }
+- [2012 年 7 月 30 日勇者斗恶龙 10 直面会](https://www.bilibili.com/video/BV1e7411m7dm/)

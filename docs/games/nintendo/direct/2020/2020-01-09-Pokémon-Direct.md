@@ -52,4 +52,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 1 月 9 日宝可梦直面会](https://www.bilibili.com/video/BV12X4y1u7Eh/){ target="_blank" }
+- [2020 年 1 月 9 日宝可梦直面会](https://www.bilibili.com/video/BV12X4y1u7Eh/)

@@ -72,4 +72,4 @@ tags:
 
 ## 外部链接
 
-- [2015 年 6 月 17 日任天堂 E3 直面会](https://www.bilibili.com/video/BV1LJ411L775/){ target="_blank" }
+- [2015 年 6 月 17 日任天堂 E3 直面会](https://www.bilibili.com/video/BV1LJ411L775/)

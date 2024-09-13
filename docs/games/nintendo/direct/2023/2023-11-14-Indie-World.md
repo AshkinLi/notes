@@ -51,4 +51,4 @@ tags:
 
 ## 外部链接
 
-- [2023 年 11 月 15 日独立游戏直面会](https://www.bilibili.com/video/BV1nb4y1g7Rj/){ target="_blank" }
+- [2023 年 11 月 15 日独立游戏直面会](https://www.bilibili.com/video/BV1nb4y1g7Rj/)

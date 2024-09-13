@@ -66,4 +66,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 9 月 24 日任天堂直面会](https://www.bilibili.com/video/BV1eq4y1P7Si/){ target="_blank" }
+- [2021 年 9 月 24 日任天堂直面会](https://www.bilibili.com/video/BV1eq4y1P7Si/)

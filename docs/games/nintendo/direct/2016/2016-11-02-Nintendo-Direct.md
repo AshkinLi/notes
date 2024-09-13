@@ -37,4 +37,4 @@ tags:
 
 ## 外部链接
 
-- [2016年11月2日动物森友会直面会](https://www.bilibili.com/video/BV17E41157QA/){ target="_blank" }
+- [2016年11月2日动物森友会直面会](https://www.bilibili.com/video/BV17E41157QA/)

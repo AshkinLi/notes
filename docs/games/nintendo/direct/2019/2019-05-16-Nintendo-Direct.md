@@ -32,4 +32,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 5 月 16 日超级马力欧创作家 2 直面会](https://www.bilibili.com/video/BV12t4y1Y7i3/){ target="_blank" }
+- [2019 年 5 月 16 日超级马力欧创作家 2 直面会](https://www.bilibili.com/video/BV12t4y1Y7i3/)

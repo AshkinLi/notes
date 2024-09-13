@@ -25,4 +25,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 7 月 4 日妖怪手表 2 直面会](https://www.bilibili.com/video/BV1PC4y1a7Ar/){ target="_blank" }
+- [2014 年 7 月 4 日妖怪手表 2 直面会](https://www.bilibili.com/video/BV1PC4y1a7Ar/)

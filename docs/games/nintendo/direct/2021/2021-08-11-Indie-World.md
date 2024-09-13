@@ -47,4 +47,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 8 月 11 日独立游戏直面会](https://www.bilibili.com/video/BV1QM4y157eS/){ target="_blank" }
+- [2021 年 8 月 11 日独立游戏直面会](https://www.bilibili.com/video/BV1QM4y157eS/)

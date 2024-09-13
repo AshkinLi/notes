@@ -69,4 +69,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 6 月 12 日任天堂 E3 直面会](https://www.bilibili.com/video/BV1z7411p7vS/){ target="_blank" }
+- [2019 年 6 月 12 日任天堂 E3 直面会](https://www.bilibili.com/video/BV1z7411p7vS/)

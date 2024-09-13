@@ -43,4 +43,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 9 月 4 日宝可梦直面会](https://www.bilibili.com/video/BV19E411b7yR/){ target="_blank" }
+- [2013 年 9 月 4 日宝可梦直面会](https://www.bilibili.com/video/BV19E411b7yR/)

@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 12 月 19 日超级任天堂世界直面会](https://www.bilibili.com/video/BV1pp4y1W7SX/){ target="_blank" }
+- [2020 年 12 月 19 日超级任天堂世界直面会](https://www.bilibili.com/video/BV1pp4y1W7SX/)

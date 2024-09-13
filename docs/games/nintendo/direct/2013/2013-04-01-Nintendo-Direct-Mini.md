@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2013年4月1日任天堂迷你直面会：任天堂3DS下载软件](https://www.bilibili.com/video/BV1Le411s7qn/){ target="_blank" }
+- [2013年4月1日任天堂迷你直面会：任天堂3DS下载软件](https://www.bilibili.com/video/BV1Le411s7qn/)

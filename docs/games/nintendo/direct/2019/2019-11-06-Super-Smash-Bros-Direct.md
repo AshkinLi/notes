@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 11 月 6 日任天堂明星大乱斗直播节目：特瑞的使用方法](https://www.bilibili.com/video/BV1Wf4y1E7tp/){ target="_blank" }
+- [2019 年 11 月 6 日任天堂明星大乱斗直播节目：特瑞的使用方法](https://www.bilibili.com/video/BV1Wf4y1E7tp/)

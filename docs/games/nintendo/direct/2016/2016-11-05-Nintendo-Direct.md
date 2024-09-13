@@ -26,4 +26,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 11 月 5 日迷托邦直面会](https://www.bilibili.com/video/BV1fK411p7fS/){ target="_blank" }
+- [2016 年 11 月 5 日迷托邦直面会](https://www.bilibili.com/video/BV1fK411p7fS/)

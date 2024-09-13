@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 8 月 5 日塞尔达无双直面会](https://www.bilibili.com/video/BV1M5411W7qq/){ target="_blank" }
+- [2014 年 8 月 5 日塞尔达无双直面会](https://www.bilibili.com/video/BV1M5411W7qq/)

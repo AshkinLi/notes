@@ -63,4 +63,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 2 月 14 日任天堂直面会](https://www.bilibili.com/video/**BV167411p7Mp**/){ target="_blank" }
+- [2019 年 2 月 14 日任天堂直面会](https://www.bilibili.com/video/**BV167411p7Mp**/)

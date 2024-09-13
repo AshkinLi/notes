@@ -45,4 +45,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 6 月 24 日宝可梦新作发表会](https://www.bilibili.com/video/BV19o4y1d73t/){ target="_blank" }
+- [2020 年 6 月 24 日宝可梦新作发表会](https://www.bilibili.com/video/BV19o4y1d73t/)

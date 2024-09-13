@@ -35,4 +35,4 @@ tags:
 
 ## 外部链接
 
-- [2021年10月5日任天堂明星大乱斗特别版最后的特别节目：索拉的使用方法](https://www.bilibili.com/video/BV16L41137p3/){ target="_blank" }
+- [2021年10月5日任天堂明星大乱斗特别版最后的特别节目：索拉的使用方法](https://www.bilibili.com/video/BV16L41137p3/)

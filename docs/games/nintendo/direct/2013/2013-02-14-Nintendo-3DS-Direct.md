@@ -54,4 +54,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 2 月 14 日任天堂 3DS 直面会](https://www.bilibili.com/video/BV1bJ411v7Wr/){ target="_blank" }
+- [2013 年 2 月 14 日任天堂 3DS 直面会](https://www.bilibili.com/video/BV1bJ411v7Wr/)

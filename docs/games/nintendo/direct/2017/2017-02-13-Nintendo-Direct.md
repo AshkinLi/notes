@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 2 月 13 日《火焰纹章》宣布中文化视频](https://www.bilibili.com/video/BV1gJ411B7t1/){ target="_blank" }
+- [2017 年 2 月 13 日《火焰纹章》宣布中文化视频](https://www.bilibili.com/video/BV1gJ411B7t1/)

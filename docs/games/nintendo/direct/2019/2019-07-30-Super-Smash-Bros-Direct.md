@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 7 月 30 日任天堂明星大乱斗直播节目：勇者的使用方法](https://www.bilibili.com/video/BV1j34y1D7ag/){ target="_blank" }
+- [2019 年 7 月 30 日任天堂明星大乱斗直播节目：勇者的使用方法](https://www.bilibili.com/video/BV1j34y1D7ag/)

@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 2 月 20 日动物森友会直面会](https://www.bilibili.com/video/BV1aK4y1L7a4/){ target="_blank" }
+- [2020 年 2 月 20 日动物森友会直面会](https://www.bilibili.com/video/BV1aK4y1L7a4/)

@@ -28,4 +28,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 12 月 6 日任天堂现场直面会](https://www.bilibili.com/video/BV1xK41177mD/){ target="_blank" }
+- [2012 年 12 月 6 日任天堂现场直面会](https://www.bilibili.com/video/BV1xK41177mD/)

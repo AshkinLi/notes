@@ -48,4 +48,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 6 月 5 日宝可梦直面会](https://www.bilibili.com/video/BV1CJ411S77G/){ target="_blank" }
+- [2019 年 6 月 5 日宝可梦直面会](https://www.bilibili.com/video/BV1CJ411S77G/)

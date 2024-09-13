@@ -51,4 +51,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 8 月 18 日宝可梦新作发表会](https://www.bilibili.com/video/BV1qM4y1L7jC/){ target="_blank" }
+- [2021 年 8 月 18 日宝可梦新作发表会](https://www.bilibili.com/video/BV1qM4y1L7jC/)

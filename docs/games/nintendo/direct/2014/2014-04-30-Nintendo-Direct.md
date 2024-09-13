@@ -37,4 +37,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 4 月 30 日马力欧卡丁车 8 直面会](https://www.bilibili.com/video/BV1Bt4y117Nz/){ target="_blank" }
+- [2014 年 4 月 30 日马力欧卡丁车 8 直面会](https://www.bilibili.com/video/BV1Bt4y117Nz/)

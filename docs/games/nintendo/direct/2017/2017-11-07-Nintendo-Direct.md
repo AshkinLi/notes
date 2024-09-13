@@ -27,4 +27,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 11 月 7 日异度神剑 2 直面会](https://www.bilibili.com/video/BV1eK411A7Zv/){ target="_blank" }
+- [2017 年 11 月 7 日异度神剑 2 直面会](https://www.bilibili.com/video/BV1eK411A7Zv/)

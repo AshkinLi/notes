@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 9 月 28 日任天堂迷你直面会：新超级马力欧兄弟 2](https://www.bilibili.com/video/BV1EQ4y1M7U8/){ target="_blank" }
+- [2012 年 9 月 28 日任天堂迷你直面会：新超级马力欧兄弟 2](https://www.bilibili.com/video/BV1EQ4y1M7U8/)

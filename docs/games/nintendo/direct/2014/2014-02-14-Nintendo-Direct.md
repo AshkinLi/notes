@@ -54,4 +54,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 2 月 14 日任天堂直面会](https://www.bilibili.com/video/BV1FJ411674m/){ target="_blank" }
+- [2014 年 2 月 14 日任天堂直面会](https://www.bilibili.com/video/BV1FJ411674m/)

@@ -45,4 +45,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 3 月 20 日独立游戏直面会](https://www.bilibili.com/video/BV14z4y1C7xz/){ target="_blank" }
+- [2019 年 3 月 20 日独立游戏直面会](https://www.bilibili.com/video/BV14z4y1C7xz/)

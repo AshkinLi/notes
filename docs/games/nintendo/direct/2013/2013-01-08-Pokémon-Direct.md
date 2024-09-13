@@ -40,4 +40,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 1 月 8 日宝可梦直面会](https://www.bilibili.com/video/BV19E411b7q7/){ target="_blank" }
+- [2013 年 1 月 8 日宝可梦直面会](https://www.bilibili.com/video/BV19E411b7q7/)

@@ -49,4 +49,4 @@ tags:
 
 ## 外部链接
 
-- [2023 年 4 月 20 日独立游戏直面会](https://www.bilibili.com/video/BV1GV4y1f7JJ/){ target="_blank" }
+- [2023 年 4 月 20 日独立游戏直面会](https://www.bilibili.com/video/BV1GV4y1f7JJ/)

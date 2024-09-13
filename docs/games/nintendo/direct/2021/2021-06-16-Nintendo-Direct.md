@@ -66,4 +66,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 6 月 16 日任天堂 E3 直面会](https://www.bilibili.com/video/BV17o4y1k7Rs/){ target="_blank" }
+- [2021 年 6 月 16 日任天堂 E3 直面会](https://www.bilibili.com/video/BV17o4y1k7Rs/)

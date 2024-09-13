@@ -37,4 +37,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 8 月 26 日任天堂迷你直面会：第三方厂商](https://www.bilibili.com/video/BV1CA411H7S2/){ target="_blank" }
+- [2020 年 8 月 26 日任天堂迷你直面会：第三方厂商](https://www.bilibili.com/video/BV1CA411H7S2/)

@@ -49,4 +49,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 12 月 11 日独立游戏直面会](https://www.bilibili.com/video/BV17y4y1D7Bd/){ target="_blank" }
+- [2019 年 12 月 11 日独立游戏直面会](https://www.bilibili.com/video/BV17y4y1D7Bd/)

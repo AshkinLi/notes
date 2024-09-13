@@ -29,4 +29,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 12 月 19 日任天堂迷你直面会：勇者斗恶龙 10](https://www.bilibili.com/video/BV1je411x7Tj/){ target="_blank" }
+- [2012 年 12 月 19 日任天堂迷你直面会：勇者斗恶龙 10](https://www.bilibili.com/video/BV1je411x7Tj/)

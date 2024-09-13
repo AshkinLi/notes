@@ -35,4 +35,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 2 月 1 日动物森友会直面会](https://www.bilibili.com/video/BV1LE411572q/){ target="_blank" }
+- [2013 年 2 月 1 日动物森友会直面会](https://www.bilibili.com/video/BV1LE411572q/)

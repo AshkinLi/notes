@@ -24,4 +24,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 6 月 21 日勇者斗恶龙 11 直面会](https://www.bilibili.com/video/BV1pi4y177dM/){ target="_blank" }
+- [2017 年 6 月 21 日勇者斗恶龙 11 直面会](https://www.bilibili.com/video/BV1pi4y177dM/)

@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 6 月 22 日任天堂明星大乱斗直播节目：面面的使用方法](https://www.bilibili.com/video/BV1S34y1S7dB/){ target="_blank" }
+- [2020 年 6 月 22 日任天堂明星大乱斗直播节目：面面的使用方法](https://www.bilibili.com/video/BV1S34y1S7dB/)

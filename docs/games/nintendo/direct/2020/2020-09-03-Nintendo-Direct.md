@@ -47,4 +47,4 @@ tags:
 
 ## 外部链接
 
-- [2020 年 9 月 3 日超级马力欧兄弟 35 周年直面会](https://www.bilibili.com/video/BV1Cv411W7Ko/){ target="_blank" }
+- [2020 年 9 月 3 日超级马力欧兄弟 35 周年直面会](https://www.bilibili.com/video/BV1Cv411W7Ko/)

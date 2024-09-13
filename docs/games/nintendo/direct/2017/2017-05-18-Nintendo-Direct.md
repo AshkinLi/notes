@@ -32,4 +32,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 5 月 18 日 ARMS 直面会](https://www.bilibili.com/video/BV1ja4y1L78A/){ target="_blank" }
+- [2017 年 5 月 18 日 ARMS 直面会](https://www.bilibili.com/video/BV1ja4y1L78A/)

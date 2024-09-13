@@ -48,4 +48,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 11 月 14 日任天堂迷你直面会：Wii U / 3DS 下载软件](https://www.bilibili.com/video/BV1fV411k7ME/){ target="_blank" }
+- [2013 年 11 月 14 日任天堂迷你直面会：Wii U / 3DS 下载软件](https://www.bilibili.com/video/BV1fV411k7ME/)

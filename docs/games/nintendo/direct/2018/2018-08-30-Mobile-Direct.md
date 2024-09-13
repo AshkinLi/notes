@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2018 年 8 月 30 日失落的龙约直面会](https://www.bilibili.com/video/BV1fa4y1p7DY/){ target="_blank" }
+- [2018 年 8 月 30 日失落的龙约直面会](https://www.bilibili.com/video/BV1fa4y1p7DY/)

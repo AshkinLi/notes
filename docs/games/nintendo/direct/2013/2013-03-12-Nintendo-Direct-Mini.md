@@ -25,4 +25,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 3 月 12 日任天堂迷你直面会：朋友聚会 新生活](https://www.bilibili.com/video/BV1Uz411b7wA/){ target="_blank" }
+- [2013 年 3 月 12 日任天堂迷你直面会：朋友聚会 新生活](https://www.bilibili.com/video/BV1Uz411b7wA/)

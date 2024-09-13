@@ -41,4 +41,4 @@ tags:
 
 ## 外部链接
 
-- [2014 年 4 月 9 日任天堂明星大乱斗直面会](https://www.bilibili.com/video/BV1DJ411p7ta/){ target="_blank" }
+- [2014 年 4 月 9 日任天堂明星大乱斗直面会](https://www.bilibili.com/video/BV1DJ411p7ta/)

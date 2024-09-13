@@ -35,4 +35,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 1 月 19 日火焰纹章直面会](https://www.bilibili.com/video/BV1p54y1B7xf/){ target="_blank" }
+- [2017 年 1 月 19 日火焰纹章直面会](https://www.bilibili.com/video/BV1p54y1B7xf/)

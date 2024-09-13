@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 9 月 5 日任天堂明星大乱斗直播节目：阿邦＆阿卡的使用方法](https://www.bilibili.com/video/BV1kh411n71M/){ target="_blank" }
+- [2019 年 9 月 5 日任天堂明星大乱斗直播节目：阿邦＆阿卡的使用方法](https://www.bilibili.com/video/BV1kh411n71M/)

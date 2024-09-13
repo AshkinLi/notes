@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2020年10月3日任天堂明星大乱斗直播节目：史蒂夫/艾莉克斯的使用方法](https://www.bilibili.com/video/BV1e44y147YJ/){ target="_blank" }
+- [2020年10月3日任天堂明星大乱斗直播节目：史蒂夫/艾莉克斯的使用方法](https://www.bilibili.com/video/BV1e44y147YJ/)

@@ -39,4 +39,4 @@ tags:
 
 ## 外部链接
 
-- [2018 年 11 月 1 日任天堂明星大乱斗直面会](https://www.bilibili.com/video/BV1rT4y1T7MP/){ target="_blank" }
+- [2018 年 11 月 1 日任天堂明星大乱斗直面会](https://www.bilibili.com/video/BV1rT4y1T7MP/)

@@ -70,4 +70,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 9 月 5 日任天堂直面会](https://www.bilibili.com/video/BV1r7411p76y/){ target="_blank" }
+- [2019 年 9 月 5 日任天堂直面会](https://www.bilibili.com/video/BV1r7411p76y/)

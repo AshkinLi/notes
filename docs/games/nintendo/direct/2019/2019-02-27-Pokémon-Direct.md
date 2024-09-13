@@ -50,4 +50,4 @@ tags:
 
 ## 外部链接
 
-- [2019 年 2 月 27 日宝可梦直面会](https://www.bilibili.com/video/BV1gE411e7eZ/){ target="_blank" }
+- [2019 年 2 月 27 日宝可梦直面会](https://www.bilibili.com/video/BV1gE411e7eZ/)

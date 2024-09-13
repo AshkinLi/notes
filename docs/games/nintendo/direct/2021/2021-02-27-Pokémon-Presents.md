@@ -49,4 +49,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 2 月 27 日宝可梦新作发表会](https://www.bilibili.com/video/BV16Z4y1A7u6/){ target="_blank" }
+- [2021 年 2 月 27 日宝可梦新作发表会](https://www.bilibili.com/video/BV16Z4y1A7u6/)

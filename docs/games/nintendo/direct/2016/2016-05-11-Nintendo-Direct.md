@@ -20,4 +20,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 5 月 11 日卡片召唤师 反叛直面会：新规则篇](https://www.bilibili.com/video/BV1Yt4y1y7Pt/){ target="_blank" }
+- [2016 年 5 月 11 日卡片召唤师 反叛直面会：新规则篇](https://www.bilibili.com/video/BV1Yt4y1y7Pt/)

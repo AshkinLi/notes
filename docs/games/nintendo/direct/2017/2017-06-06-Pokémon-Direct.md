@@ -49,4 +49,4 @@ tags:
 
 ## 外部链接
 
-- [2017 年 6 月 6 日宝可梦直面会](https://www.bilibili.com/video/BV1ZE411i765/){ target="_blank" }
+- [2017 年 6 月 6 日宝可梦直面会](https://www.bilibili.com/video/BV1ZE411i765/)

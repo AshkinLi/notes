@@ -70,4 +70,4 @@ tags:
 
 ## 外部链接
 
-- [2015 年 4 月 2 日任天堂直面会](https://www.bilibili.com/video/BV1aJ411h7Fh/){ target="_blank" }
+- [2015 年 4 月 2 日任天堂直面会](https://www.bilibili.com/video/BV1aJ411h7Fh/)

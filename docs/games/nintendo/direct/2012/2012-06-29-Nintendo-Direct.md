@@ -37,4 +37,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 6 月 29 日快乐足球直面会](https://www.bilibili.com/video/BV1p7411m7qv/){ target="_blank" }
+- [2012 年 6 月 29 日快乐足球直面会](https://www.bilibili.com/video/BV1p7411m7qv/)

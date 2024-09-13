@@ -45,4 +45,4 @@ tags:
 
 ## 外部链接
 
-- [2016 年 2 月 27 日宝可梦直面会](https://www.bilibili.com/video/BV16E411i7Qf/){ target="_blank" }
+- [2016 年 2 月 27 日宝可梦直面会](https://www.bilibili.com/video/BV16E411i7Qf/)

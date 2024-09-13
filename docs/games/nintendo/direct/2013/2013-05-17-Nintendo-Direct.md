@@ -54,4 +54,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 5 月 17 日任天堂直面会](https://www.bilibili.com/video/BV11J411k7aq/){ target="_blank" }
+- [2013 年 5 月 17 日任天堂直面会](https://www.bilibili.com/video/BV11J411k7aq/)

@@ -30,4 +30,4 @@ tags:
 
 ## 外部链接
 
-- [2022年6月22日异度神剑3直面会](https://www.bilibili.com/video/BV1DU4y1X7yR/){ target="_blank" }
+- [2022年6月22日异度神剑3直面会](https://www.bilibili.com/video/BV1DU4y1X7yR/)

@@ -50,4 +50,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 8 月 29 日任天堂直面会](https://www.bilibili.com/video/BV15J411R7ki/){ target="_blank" }
+- [2012 年 8 月 29 日任天堂直面会](https://www.bilibili.com/video/BV15J411R7ki/)

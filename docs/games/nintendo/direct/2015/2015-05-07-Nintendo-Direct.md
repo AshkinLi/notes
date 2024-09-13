@@ -27,4 +27,4 @@ tags:
 
 ## 外部链接
 
-- [2015 年 5 月 7 日斯普拉遁直面会](https://www.bilibili.com/video/BV1Dp4y1S7yv/){ target="_blank" }
+- [2015 年 5 月 7 日斯普拉遁直面会](https://www.bilibili.com/video/BV1Dp4y1S7yv/)

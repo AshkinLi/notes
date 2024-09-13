@@ -54,4 +54,4 @@ tags:
 
 ## 外部链接
 
-- [2013 年 1 月 23 日任天堂 Wii U 直面会](https://www.bilibili.com/video/BV1AJ411q78w/){ target="_blank" }
+- [2013 年 1 月 23 日任天堂 Wii U 直面会](https://www.bilibili.com/video/BV1AJ411q78w/)

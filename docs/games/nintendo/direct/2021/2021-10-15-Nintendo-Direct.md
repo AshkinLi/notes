@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2021 年 10 月 15 日动物森友会直面会](https://www.bilibili.com/video/BV19L411376N/){ target="_blank" }
+- [2021 年 10 月 15 日动物森友会直面会](https://www.bilibili.com/video/BV19L411376N/)

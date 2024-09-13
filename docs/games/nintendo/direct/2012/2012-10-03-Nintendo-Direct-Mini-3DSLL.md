@@ -24,5 +24,5 @@ tags:
 
 ## 外部链接
 
-- [2012 年 10 月 3 日任天堂迷你直面会：任天堂 3DS LL](https://www.bilibili.com/video/BV1gC4y1s7wE/){ target="_blank" }
+- [2012 年 10 月 3 日任天堂迷你直面会：任天堂 3DS LL](https://www.bilibili.com/video/BV1gC4y1s7wE/)
 

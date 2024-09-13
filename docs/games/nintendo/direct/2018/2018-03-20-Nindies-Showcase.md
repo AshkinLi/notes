@@ -36,4 +36,4 @@ tags:
 
 ## 外部链接
 
-- [2018 年 3 月 20 日独立游戏直面会](https://www.bilibili.com/video/BV1yA411j7sz/){ target="_blank" }
+- [2018 年 3 月 20 日独立游戏直面会](https://www.bilibili.com/video/BV1yA411j7sz/)

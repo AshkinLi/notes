@@ -43,4 +43,4 @@ tags:
 
 ## 外部链接
 
-- [2012 年 10 月 5 日动物森友会直面会](https://www.bilibili.com/video/BV1jE41157uA/){ target="_blank" }
+- [2012 年 10 月 5 日动物森友会直面会](https://www.bilibili.com/video/BV1jE41157uA/)

@@ -1,6 +1,7 @@
 nav:
-  - 主页: index.md
+  - 主页: 
+    - 书签: index.md
+    - 标签: tags.md
   - 编程: developers
   - 游戏: games
   - 待办: todo
-  - 杂项: mises
