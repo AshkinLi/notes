@@ -1,6 +1,6 @@
 nav:
   - 主页: 
-    - 书签: index.md
+    - 书签: bookmarks.md
     - 标签: tags.md
   - 编程: developers
   - 游戏: games
