@@ -1,5 +1,5 @@
 ---
-title: 书籍（Books）
+title: 书籍
 tags:
   - 列表
 ---

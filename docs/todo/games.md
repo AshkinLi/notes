@@ -1,5 +1,5 @@
 ---
-title: 游戏（Games）
+title: 游戏
 tags:
   - 列表
 ---

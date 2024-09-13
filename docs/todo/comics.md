@@ -1,5 +1,5 @@
 ---
-title: 漫画（Comics）
+title: 漫画
 tags:
   - 列表
 ---
