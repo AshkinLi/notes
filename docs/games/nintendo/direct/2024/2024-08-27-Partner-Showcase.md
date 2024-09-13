@@ -58,5 +58,5 @@ tags:
 
 ## 外部链接
 
-- [Nintendo Direct ソフトメーカーラインナップ 2024.8.27](https://www.youtube.com/watch?v=14tEHxz5Z6w)( target="_blank" )
-- [Indie World 2024.8.27](https://www.youtube.com/watch?v=0ZA0LefX0cQ)( target="_blank" )
+- [Nintendo Direct ソフトメーカーラインナップ 2024.8.27](https://www.youtube.com/watch?v=14tEHxz5Z6w)
+- [Indie World 2024.8.27](https://www.youtube.com/watch?v=0ZA0LefX0cQ)
