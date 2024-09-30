@@ -28,7 +28,7 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.preview
-    - navigation.sections
+    # - navigation.sections
     - navigation.tabs
     - navigation.top
     - navigation.tracking
