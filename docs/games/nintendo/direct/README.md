@@ -200,7 +200,7 @@ tags:
 - [ちょっと Nintendo Direct ドラゴンクエストX 2012.12.19](./2012/2012-12-19-Nintendo-Direct.md)
 - [Nintendo 生 Direct 2012.12.6](./2012/2012-12-06-Nintendo-Direct.md)
 - [Nintendo Direct 2012.12.5 プレゼンテーション映像](./2012/2012-12-05-Nintendo-Direct.md)
-- [ちょっと Nintendo Direct New スーパーマリオブラザーズ 2 2012.11.27](./2012/2012-11-27-Nintendo-Direct.md)
+- [ちょっと Nintendo Direct New スーパーマリオブラザーズ 2 2012.11.27](./2012/2012-11-27-Nintendo-Direct-Mini.md)
 - [Wii U本体機能 ちょっと補足 Direct 2012.11.14](./2012/2012-11-14-Nintendo-Direct.md)
 - [Wii U本体機能 Direct 2012.11.7 プレゼンテーション映像](./2012/2012-11-07-Nintendo-Direct.md)
 - [Nintendo Direct 2012.10.25 プレゼンテーション映像](./2012/2012-10-25-Nintendo-Direct.md)

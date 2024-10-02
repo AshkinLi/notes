@@ -1,7 +1,7 @@
 nav:
   - 首页: 
     - ...
-    - 书签: 
+    - 🔖 书签: 
       - 常用:
         - 微博: https://weibo.com/mygroups?gid=4123220279896173
         - 知乎: https://zhihu.com
@@ -56,7 +56,7 @@ nav:
         - 9to5Google: https://9to5google.com
         - Telegram: https://web.telegram.org
         - Hitomi: https://hitomi.la
-    - 标签: tags.md
+    - 🏷 标签: tags.md
   - 编程: technicals
   - 游戏: games
   - 待办: todo
