@@ -38,8 +38,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![slider-basic](https://developer.android.com/static/develop/ui/compose/images/components/slider-basic.png){ loading=lazy }
-      <figcaption><b>图 1.</b> <code>Slider</code></figcaption>
+        ![slider-basic](https://developer.android.com/static/develop/ui/compose/images/components/slider-basic.png){ loading=lazy }
+        <figcaption><b>图 1.</b> <code>Slider</code></figcaption>
     </figure>
 
 === "Advanced"
@@ -67,8 +67,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![slider-advanced](https://developer.android.com/static/develop/ui/compose/images/components/slider-advanced.png){ loading=lazy }
-      <figcaption><b>图 2.</b> 一个带有步骤和设定值范围的 <code>Slider</code>。</figcaption>
+        ![slider-advanced](https://developer.android.com/static/develop/ui/compose/images/components/slider-advanced.png){ loading=lazy }
+        <figcaption><b>图 2.</b> 一个带有步骤和设定值范围的 <code>Slider</code>。</figcaption>
     </figure>
 
 === "Range"
@@ -95,8 +95,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![slider-range](https://developer.android.com/static/develop/ui/compose/images/components/slider-range.png){ loading=lazy }
-      <figcaption><b>图 3.</b> <code>RangeSlider</code></figcaption>
+        ![slider-range](https://developer.android.com/static/develop/ui/compose/images/components/slider-range.png){ loading=lazy }
+        <figcaption><b>图 3.</b> <code>RangeSlider</code></figcaption>
     </figure>
 
 ## Key points
@@ -119,7 +119,7 @@ tags:
 
 - [Silders - Material Design 3](https://m3.material.io/components/sliders/overview)
 
-**Quick Guide**
+**Quick Guides**
 
 - [Create a slider for a range of values](https://developer.android.com/quick-guides/content/create-range-slider)
 

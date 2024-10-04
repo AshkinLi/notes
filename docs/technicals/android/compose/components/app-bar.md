@@ -1,8 +1,7 @@
 ---
-title: App Bar
+title: App Bars
 tags:
-  - Top app bar
-  - Bottom app bar
+  - App bars
 ---
 
 应用栏是屏幕顶部或底部的容器，它们为用户提供访问关键功能和导航项的入口：
@@ -40,8 +39,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![appbar-small](https://developer.android.com/static/develop/ui/compose/images/components/appbar-small.png)
-      <figcaption><b>图 1.</b> <code>Small top app bar</code></figcaption>
+        ![appbar-small](https://developer.android.com/static/develop/ui/compose/images/components/appbar-small.png)
+        <figcaption><b>图 1.</b> <code>Small top app bar</code></figcaption>
     </figure>
 
 === "Center-aligned top app bar"
@@ -93,8 +92,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![appbar-centered](https://developer.android.com/static/develop/ui/compose/images/components/appbar-centered.png)
-      <figcaption><b>图 2.</b> <code>Center-aligned top app bar</code></figcaption>
+        ![appbar-centered](https://developer.android.com/static/develop/ui/compose/images/components/appbar-centered.png)
+        <figcaption><b>图 2.</b> <code>Center-aligned top app bar</code></figcaption>
     </figure>
 
 === "Medium top app bar"
@@ -199,8 +198,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![appbar-large](https://developer.android.com/static/develop/ui/compose/images/components/appbar-large.png)
-      <figcaption><b>图 4.</b> <code>Large top app bar</code></figcaption>
+        ![appbar-large](https://developer.android.com/static/develop/ui/compose/images/components/appbar-large.png)
+        <figcaption><b>图 4.</b> <code>Large top app bar</code></figcaption>
     </figure>
 
 ## Bottom app bar
@@ -264,8 +263,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![appbar-bottom](https://developer.android.com/static/develop/ui/compose/images/components/appbar-bottom.png)
-      <figcaption><b>图 5.</b> <code>Bottom app bar</code></figcaption>
+        ![appbar-bottom](https://developer.android.com/static/develop/ui/compose/images/components/appbar-bottom.png)
+        <figcaption><b>图 5.</b> <code>Bottom app bar</code></figcaption>
     </figure>
 
 ## Key points
@@ -289,9 +288,11 @@ tags:
 - [Bottom app bar](https://m3.material.io/components/bottom-app-bar/overview)
 - [Top app bars](https://m3.material.io/components/top-app-bar/overview)
 
-**Quick Guide**
+**Quick Guides**
 
 - [Display an app bar](https://developer.android.com/quick-guides/content/display-app-bar)
+- [Display a bottom app bar](https://developer.android.com/quick-guides/content/display-bottom-app-bar)
+- [Display a top app bar](https://developer.android.com/quick-guides/content/display-top-app-bar)
 
 **References**
 

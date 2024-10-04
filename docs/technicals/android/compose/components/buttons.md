@@ -31,8 +31,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![button-filled](https://developer.android.com/static/develop/ui/compose/images/components/button-filled.png)
-      <figcaption><b>图 1.</b> <code>Filled Button</code></figcaption>
+        ![button-filled](https://developer.android.com/static/develop/ui/compose/images/components/button-filled.png)
+        <figcaption><b>图 1.</b> <code>Filled Button</code></figcaption>
     </figure>
 
 === "Tonal Button"
@@ -47,8 +47,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![button-tonal](https://developer.android.com/static/develop/ui/compose/images/components/button-tonal.png)
-      <figcaption><b>图 2.</b> <code>Tonal Button</code></figcaption>
+        ![button-tonal](https://developer.android.com/static/develop/ui/compose/images/components/button-tonal.png)
+        <figcaption><b>图 2.</b> <code>Tonal Button</code></figcaption>
     </figure>
 
 === "Elevated Button"
@@ -79,8 +79,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![button-outlined](https://developer.android.com/static/develop/ui/compose/images/components/button-outlined.png)
-      <figcaption><b>图 4.</b> <code>Outlined Button</code></figcaption>
+        ![button-outlined](https://developer.android.com/static/develop/ui/compose/images/components/button-outlined.png)
+        <figcaption><b>图 4.</b> <code>Outlined Button</code></figcaption>
     </figure>
 
 === "Text Button"
@@ -95,8 +95,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![button-text](https://developer.android.com/static/develop/ui/compose/images/components/button-text.png)
-      <figcaption><b>图 5.</b> <code>Text Button</code></figcaption>
+        ![button-text](https://developer.android.com/static/develop/ui/compose/images/components/button-text.png)
+        <figcaption><b>图 5.</b> <code>Text Button</code></figcaption>
     </figure>
 
 ### Key points
@@ -139,8 +139,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![fab](https://developer.android.com/static/develop/ui/compose/images/components/fab.png)
-      <figcaption><b>图 6.</b> <code>FloatingActionButton</code></figcaption>
+        ![fab](https://developer.android.com/static/develop/ui/compose/images/components/fab.png)
+        <figcaption><b>图 6.</b> <code>FloatingActionButton</code></figcaption>
     </figure>
 
 === "Small FAB"
@@ -159,8 +159,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![fab-small](https://developer.android.com/static/develop/ui/compose/images/components/fab-small.png)
-      <figcaption><b>图 7.</b> <code>Small FAB</code></figcaption>
+        ![fab-small](https://developer.android.com/static/develop/ui/compose/images/components/fab-small.png)
+        <figcaption><b>图 7.</b> <code>Small FAB</code></figcaption>
     </figure>
 
 === "Large FAB"
@@ -178,8 +178,8 @@ tags:
     ```
 
     <figure markdown="span">
-      ![fab-large](https://developer.android.com/static/develop/ui/compose/images/components/fab-large.png)
-      <figcaption><b>图 8.</b> <code>Large FAB</code></figcaption>
+        ![fab-large](https://developer.android.com/static/develop/ui/compose/images/components/fab-large.png)
+        <figcaption><b>图 8.</b> <code>Large FAB</code></figcaption>
     </figure>
 
 === "Extended FAB"
@@ -196,8 +196,8 @@ tags:
     ```
     
     <figure markdown="span">
-      ![fab-extended](https://developer.android.com/static/develop/ui/compose/images/components/fab-extended.png)
-      <figcaption><b>图 9.</b> <code>Extended FAB</code></figcaption>
+        ![fab-extended](https://developer.android.com/static/develop/ui/compose/images/components/fab-extended.png)
+        <figcaption><b>图 9.</b> <code>Extended FAB</code></figcaption>
     </figure>
 
 ### Key points
@@ -215,7 +215,7 @@ tags:
 - [Common Buttons](https://m3.material.io/components/buttons/overview)
 - [Floating action buttons](https://m3.material.io/components/floating-action-button/overview)
 
-**Quick Guide**
+**Quick Guides**
 
 - [Create a button](https://developer.android.com/quick-guides/content/create-button)
 - [Create a floating action button (FAB)](https://developer.android.com/quick-guides/content/create-floating-action-button)
@@ -227,3 +227,7 @@ tags:
 - [OutlinedButton](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#OutlinedButton(kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Boolean,androidx.compose.ui.graphics.Shape,androidx.compose.material3.ButtonColors,androidx.compose.material3.ButtonElevation,androidx.compose.foundation.BorderStroke,androidx.compose.foundation.layout.PaddingValues,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function1))
 - [ElevatedButton](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#ElevatedButton(kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Boolean,androidx.compose.ui.graphics.Shape,androidx.compose.material3.ButtonColors,androidx.compose.material3.ButtonElevation,androidx.compose.foundation.BorderStroke,androidx.compose.foundation.layout.PaddingValues,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function1))
 - [TextButton](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#TextButton(kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Boolean,androidx.compose.ui.graphics.Shape,androidx.compose.material3.ButtonColors,androidx.compose.material3.ButtonElevation,androidx.compose.foundation.BorderStroke,androidx.compose.foundation.layout.PaddingValues,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function1))
+- [FloatingActionButton](https://developer.android.com/reference/kotlin/androidx/compose/material3/FloatingActionButtonElevation#FloatingActionButton(kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Shape,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.material3.FloatingActionButtonElevation,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function0))
+- [SmallFloatingActionButton](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#SmallFloatingActionButton(kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Shape,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.material3.FloatingActionButtonElevation,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function0))
+- [LargeFloatingActionButton](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#LargeFloatingActionButton(kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Shape,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.material3.FloatingActionButtonElevation,androidx.compose.foundation.interaction.MutableInteractionSource,kotlin.Function0))
+- [ExtendedFloatingActionButton](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#ExtendedFloatingActionButton(kotlin.Function0,kotlin.Function0,kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Boolean,androidx.compose.ui.graphics.Shape,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.material3.FloatingActionButtonElevation,androidx.compose.foundation.interaction.MutableInteractionSource))
