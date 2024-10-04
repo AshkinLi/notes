@@ -22,11 +22,6 @@ tags:
 
 === "Basic"
 
-    <figure markdown="span">
-      ![slider-basic](https://developer.android.com/static/develop/ui/compose/images/components/slider-basic.png){ loading=lazy }
-      <figcaption><b>图 1.</b> <code>Slider</code></figcaption>
-    </figure>
-
     ```Kotlin
     @Preview
     @Composable
@@ -42,12 +37,12 @@ tags:
     }
     ```
 
-=== "Advanced"
-
     <figure markdown="span">
-      ![slider-advanced](https://developer.android.com/static/develop/ui/compose/images/components/slider-advanced.png){ loading=lazy }
-      <figcaption><b>图 2.</b> 一个带有步骤和设定值范围的 <code>Slider</code>。</figcaption>
+      ![slider-basic](https://developer.android.com/static/develop/ui/compose/images/components/slider-basic.png){ loading=lazy }
+      <figcaption><b>图 1.</b> <code>Slider</code></figcaption>
     </figure>
+
+=== "Advanced"
 
     ```Kotlin
     @Preview
@@ -71,12 +66,12 @@ tags:
     }
     ```
 
-=== "Range"
-
     <figure markdown="span">
-      ![slider-range](https://developer.android.com/static/develop/ui/compose/images/components/slider-range.png){ loading=lazy }
-      <figcaption><b>图 3.</b> <code>RangeSlider</code></figcaption>
+      ![slider-advanced](https://developer.android.com/static/develop/ui/compose/images/components/slider-advanced.png){ loading=lazy }
+      <figcaption><b>图 2.</b> 一个带有步骤和设定值范围的 <code>Slider</code>。</figcaption>
     </figure>
+
+=== "Range"
 
     ```Kotlin
     @Preview
@@ -99,7 +94,26 @@ tags:
     }
     ```
 
-## Links
+    <figure markdown="span">
+      ![slider-range](https://developer.android.com/static/develop/ui/compose/images/components/slider-range.png){ loading=lazy }
+      <figcaption><b>图 3.</b> <code>RangeSlider</code></figcaption>
+    </figure>
+
+## Key points
+
+一些关键的 `Slider` 可组合参数如下：
+
+- `value`: 滑块的当前值。
+- `onValueChange`：每次值改变时都会调用的一个 lambda 函数。
+- `enabled`：一个布尔值，表示用户是否可以与滑块交互。
+
+在实现更复杂的滑块时，您还可以使用以下参数。
+
+- `colors`：一个 `SliderColors` 的实例，允许你控制滑块的颜色。
+- `valueRange`：滑块可以取的值范围。
+- `steps`：滑块上缺口的数量，滑块上的拇指会对准这些缺口。
+
+## External links
 
 **UI Specs**
 
