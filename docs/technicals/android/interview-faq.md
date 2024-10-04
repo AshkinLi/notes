@@ -1,7 +1,6 @@
 ---
 title: Android 面试 FAQs
 tags:
-  - Android
   - 面试
 ---
 
