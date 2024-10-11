@@ -1,0 +1,8 @@
+nav:
+  - MkDocs References: mkdocs-references.md
+  - 🔗 Bookmarks:
+    - "MkDocs": https://www.mkdocs.org
+    - "MkDocs(GitHub)": https://github.com/mkdocs/mkdocs
+    - "MkDocs catalog(GitHub)": https://github.com/mkdocs/catalog
+    - "Material for MkDocs": https://squidfunk.github.io/mkdocs-material/
+    - "Material for MkDocs(GitHub)": https://github.com/squidfunk/mkdocs-material

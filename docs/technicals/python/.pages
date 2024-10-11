@@ -1,0 +1,9 @@
+nav:
+  - Python Reference: python-references.md
+  - MkDocs: mkdocs
+  - Pandas: pandas
+  - 🔗 Bookmarks:
+    - Python 官方网站: https://python.org
+    - Python 文档: https://docs.python.org
+    - Y 分钟学会 Python: https://learnxinyminutes.com/docs/zh-cn/python-cn/
+    - Python 3 备忘清单: https://wangchujiang.com/reference/docs/python.html
