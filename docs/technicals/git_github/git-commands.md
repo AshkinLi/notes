@@ -235,6 +235,10 @@ git diff [first-branch]...[second-branch]
 # 显示今天你写了多少行代码
 git diff --shortstat "@{0 day ago}"
 
+# 对比两条 branch 的某个文件的内容
+
+git diff branch1 branch2 -- path/to/file
+
 # 显示某次提交的元数据和内容变化
 git show [commit]
 
